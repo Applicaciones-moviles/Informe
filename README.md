@@ -65,12 +65,38 @@ Integrantes:
 
 # Capítulo I: Introducción
 
+## 1.1 Startup Profile
+
 ### 1.1.1 Descripción de la Startup
 
 ### 1.1.2 Perfiles de integrantes del equipo
+
+<img src="./assets/profile-scott.jpg" alt="Scott Huachaca Advincula" width="300">
+
+Nombre completo: Scott Jacobo Huachaca Advincula
+
+Código de estudiante: U201914294
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
+como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que
+utilizamos a diario, como las redes sociales o aplicaciones de productividad.
+
+## 1.2 Solution Profile
+
+### 1.2.1 Antecedentes y problemática
+
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+-
 
 # Capítulo II: Requirements Elicitation & Analysis]()
 
 ## 2.1 Competidores
 
 ### 2.1.1 Análisis competitivo
+
+-
