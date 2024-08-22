@@ -166,7 +166,7 @@ de vehículos, tanto para arrendatarios como para propietarios?**
       <td style="text-align:center;">Precios & Costos</td>
       <td style="text-align:center;">Plataforma gratuita</td>
       <td style="text-align:center;">Plataforma gratuita</td>
-      <td style="text-align:center;">Membresías que comienza entre los $9 al mes</td>
+      <td style="text-align:center;">Membresías que comienza en $9 al mes</td>
       <td style="text-align:center;">App gratuita</td>
     </tr>
     <tr>
