@@ -91,7 +91,14 @@ utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
--
+El alquiler de automóviles se enfrenta a diversos desafíos que 
+minan la confianza tanto de arrendatarios como de arrendadores. 
+Desde fallas mecánicas hasta casos de fraude, estos riesgos ponen
+en entredicho la seguridad y transparencia del sector. Ante esta 
+situación, surge la siguiente pregunta:
+
+**¿Cómo podemos garantizar la seguridad y transparencia en el alquiler 
+de vehículos, tanto para arrendatarios como para propietarios?**
 
 # Capítulo II: Requirements Elicitation & Analysis]()
 
