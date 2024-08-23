@@ -83,6 +83,11 @@ Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es
 como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que
 utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 
+| Integrante                           | Foto | Descripción del Perfil                                                                                          |
+|-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|
+|  Carlos Andres Rojas Ccama  |![Foto Carlor andres](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c14e0c6e-bcc4-41fa-810c-4379e9b2ac64)   |Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. |
+| || |
+
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
