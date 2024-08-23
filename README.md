@@ -86,7 +86,7 @@ utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 | Integrante                           | Foto | Descripción del Perfil                                                                                          |
 |-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|
 |  Carlos Andres Rojas Ccama  |![Foto Carlor andres](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c14e0c6e-bcc4-41fa-810c-4379e9b2ac64)   |Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. |
-| || |
+|  Andrea Joselyn Garcia Moscoso|| Actualmente estoy cursando el sexto ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, bases de datos, frontend y backend. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples. |
 
 ## 1.2 Solution Profile
 
@@ -212,3 +212,55 @@ de vehículos, tanto para arrendatarios como para propietarios?**
     </tr>
   </tbody>
 </table>
+
+## 2.2. Entrevistas
+
+Para acceder al video de las entrevistas, ingrese aquí
+
+### 2.2.1. Diseño de entrevistas
+
+**Segmento 1:** Arrendador
+
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre y qué edad tiene?
+2. ¿Dónde reside actualmente?
+
+**Preguntas principales:**
+
+1. ¿Qué te motiva a alquilar tu vehículo y cuáles son tus principales preocupaciones al hacerlo?
+2. ¿Qué aspectos legales consideras más importantes al alquilar tu vehículo a un tercero?
+3. ¿Qué importancia le das a tener un contrato formal y detallado al alquilar tu vehículo y cómo te aseguras de que proteja tus derechos como arrendador?
+4. ¿Cómo gestionas la duración de los contratos de alquiler y qué período consideras ideal para alquilar tu vehículo?
+5. ¿Qué tipo de seguro tienes para tu vehículo y cómo te aseguras de que cubra todos los posibles riesgos durante el alquiler?
+6. ¿Cómo verificas que el arrendatario cumpla con los requisitos legales y tenga un historial de conducción adecuado antes de alquilar tu vehículo?
+7. ¿Qué procedimientos sigues para inspeccionar el estado de tu vehículo antes y después del alquiler?
+8. ¿Cómo manejas la cobertura de seguro en caso de un accidente o daño al vehículo durante el alquiler?
+9. ¿Cuáles son tus principales preocupaciones durante el proceso de alquiler, desde la entrega del vehículo hasta su devolución?
+10. ¿Cómo ha sido tu experiencia alquilando tu vehículo anteriormente y qué desafíos enfrentaste?
+11. ¿Cómo realizas actualmente el proceso de alquiler y qué aspectos te gustaría mejorar en el proceso?
+12. ¿Qué es lo que más te frustra del proceso de alquiler de vehículos y cómo crees que podría mejorarse?
+13. ¿Usas aplicaciones o plataformas para alquilar tu vehículo? De ser así, ¿cuáles utilizas?
+
+**Segmento 2:** Arrendatario
+
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre y qué edad tiene?
+2. ¿Dónde reside actualmente?
+
+**Preguntas principales:**
+
+1. ¿Qué te motiva a alquilar un vehículo en lugar de poseer uno y cómo seleccionas el vehículo que alquilas?
+2. ¿Qué importancia le das a revisar y entender el contrato de alquiler, y cómo manejas situaciones en las que no cubre todas tus expectativas o derechos?
+3. ¿Qué aspectos legales te preocupan más al alquilar un vehículo de un propietario privado?
+4. ¿Cómo valoras la importancia de un seguro que cubra todos los posibles riesgos durante el tiempo que alquilas un vehículo?
+5. ¿Qué factores, como la duración del viaje o el costo, consideras al decidir la duración del alquiler de un vehículo?
+6. ¿Qué te preocupa más sobre el estado del vehículo que alquilas, desde el momento de la entrega hasta la devolución?
+7. ¿Qué tipo de garantía te gustaría tener en el contrato para asegurarte de que el vehículo esté en buen estado?
+8. ¿Qué procedimientos sigues para verificar que el vehículo tiene un seguro adecuado antes de alquilarlo?
+9. ¿Cómo realizas actualmente el proceso de alquiler y qué aspectos te gustaría mejorar en el proceso?
+10. ¿Qué importancia le das a la transparencia en las tarifas y condiciones del seguro, y cuáles son tus principales preocupaciones sobre la cobertura del seguro al alquilar un vehículo?
+11. ¿Cómo prefieres que sea el proceso de inspección del vehículo antes de alquilarlo y al devolverlo?
+12. ¿Qué es lo que más te frustra del proceso de alquiler de vehículos y cómo crees que podría mejorarse?
+13. ¿Usas aplicaciones o plataformas para alquilar vehículos? De ser así, ¿cuáles utilizas?
