@@ -21,7 +21,7 @@ Producto: ...
 Integrantes:
 
 - Integrante 1: Nombre y Apellido
-- Integrante 2: Nombre y Apellido
+- Integrante 2: Andrea Joselyn Garcia Moscoso
 - Integrante 3: Nombre y Apellido
 - Integrante 4: Nombre y Apellido
 - Integrante 5: Scott Jacobo Huachaca Advincula
@@ -86,7 +86,7 @@ utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 | Integrante                           | Foto | Descripción del Perfil                                                                                          |
 |-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|
 |  Carlos Andres Rojas Ccama  |![Foto Carlor andres](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c14e0c6e-bcc4-41fa-810c-4379e9b2ac64)   |Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. |
-|  Andrea Joselyn Garcia Moscoso|| Actualmente estoy cursando el sexto ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, bases de datos, frontend y backend. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples. |
+|  Andrea Joselyn Garcia Moscoso|<img src="./assets/andrea-foto.jpg" alt="Andrea Garcia" width="200">| Actualmente estoy cursando el sexto ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, bases de datos, frontend y backend. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples. |
 
 ## 1.2 Solution Profile
 
@@ -264,3 +264,100 @@ Para acceder al video de las entrevistas, ingrese aquí
 11. ¿Cómo prefieres que sea el proceso de inspección del vehículo antes de alquilarlo y al devolverlo?
 12. ¿Qué es lo que más te frustra del proceso de alquiler de vehículos y cómo crees que podría mejorarse?
 13. ¿Usas aplicaciones o plataformas para alquilar vehículos? De ser así, ¿cuáles utilizas?
+
+### 2.2.2. Registro de entrevistas
+
+**Segmento 1:** Arrendador
+
+**Segmento 2:** Arrendatario
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Anderson</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Macedo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Martín de Porres</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./assets/entrevista1.png" alt="Andrea Garcia" width="700"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 - 00:00</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"> Se le realizó una entrevista a un estudiante que desea utilizar una aplicación de renta de autos, ya que viaja con frecuencia y prefiere alquilar vehículos en lugar de depender de transporte público. Durante la entrevista, mencionó que un amigo suyo recientemente utilizó la aplicación Kayak para rentar un auto, pero tuvo una experiencia negativa debido a la falta de detalles en los costos asociados con el viaje, lo que resultó en gastos inesperados. También mencionó que un aspecto crucial para él es la cobertura del seguro y que el proceso para seleccionar y adquirirlo sea intuitivo y transparente. Además otro punto que Anderson destacó fue acerca de la importancia del proceso de inspección del vehículo antes y después de la renta y que este sea eficaz y sencillo.
+    Finalmente, los dispositivos que usa para rentar un auto son un celular y una laptop. En resumen, Anderson busca una aplicación que no solo sea fácil de usar en sus dispositivos habituales, sino que también le proporcione claridad en los costos, un proceso de seguro sencillo y un sistema de inspección de vehículos eficiente y sin complicaciones.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Dayane</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Piedra</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Martín de Porres</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./assets/entrevista2.png" alt="Andrea Garcia" width="700"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 - 00:00</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">Dayane utiliza aplicaciones de renta de autos debido a sus viajes frecuentes por trabajo. En su última experiencia, utilizó la aplicación de Avis y comentó que le gustó la transparencia y flexibilidad que la aplicación le ofreció. Ella considera que es extremadamente importante que el contrato de alquiler cumpla con las leyes locales, ya que esto le da tranquilidad y seguridad durante el uso del vehículo. También destacó que el proceso de inspección del auto es crucial, especialmente para evitar problemas con daños que ya existían antes de que ella tomara posesión del vehículo. Sin embargo, Dayane mencionó algunas áreas de mejora que le gustaría ver en futuras aplicaciones de renta de autos. En primer lugar, le frustra mucho encontrarse con cargos ocultos, y cree que estos deberían detallarse de manera más clara y transparente. Considera que es fundamental que todos los costos adicionales estén claramente explicados desde el inicio para evitar sorpresas desagradables. Además, comentó que el tiempo de espera en el proceso de alquiler podría ser más eficiente. Le gustaría que la inspección del vehículo, tanto antes como después del alquiler, se realizara en compañía del dueño del carro o de un representante, para evitar malentendidos.
+</td>
+  </tr>
+</tbody>
+</table>
