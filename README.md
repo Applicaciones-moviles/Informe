@@ -14,7 +14,7 @@ Profesor: Eduardo Martin Reyes Rodriguez
 
 Informe del Trabajo 
 
-Startup: RentGo
+Startup: CarConnect
 
 Producto: DriveNow
 
@@ -68,6 +68,16 @@ Integrantes:
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
+
+CarConnect es una startup enfocada en revolucionar el alquiler de vehículos con tecnología innovadora. Ofrecemos características clave como retención de pagos, seguimiento GPS, una amplia gama de autos y un servicio al cliente excepcional. Estas ventajas aseguran seguridad, protección, comodidad y ahorro para nuestros clientes. CarConnect busca transformar la experiencia de alquiler mediante soluciones tecnológicas que mejoren la experiencia del usuario. Nuestro objetivo es proporcionar una experiencia de alquiler de autos que sea eficiente, agradable y centrada en las necesidades de los clientes.
+
+**Misión**
+
+- Nuestra misión es ayudar a las personas a reducir los contratiempos que puedan tener al momento de rentar o poner en renta un auto para que estas puedan hacerlo de forma sencilla y segura. Pensamos lograr esto mediante el lanzamiento de aplicaciones web que se enfoquen en atacar dichos contratiempos.
+
+**Visión**
+- Nuestra visión es posicionar nuestra aplicación de renta de autos entre las 10 mejores en Perú y expandirla a nivel latinoamericano para que más personas puedan disfrutar de nuestros servicios.
+
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
