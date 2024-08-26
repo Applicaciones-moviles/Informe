@@ -105,6 +105,14 @@ situación, surge la siguiente pregunta:
 **¿Cómo podemos garantizar la seguridad y transparencia en el alquiler 
 de vehículos, tanto para arrendatarios como para propietarios?**
 
+## 1.3 Segmentos objetivo
+
+**Se identificaron dos  segmentos objetivos**
+
+- Personas mayores de 20 años con licencia de conducir interesadas en encontrar alquileres de automóviles a tarifas justas y transparentes, que se ajusten a su presupuesto y buscar un proceso de alquiler seguro y eficiente del vehículo.
+
+- Personas mayores de 20 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales mediante un contrato de alquiler
+
 # Capítulo II: Requirements Elicitation & Analysis]()
 
 ## 2.1 Competidores
