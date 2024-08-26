@@ -71,22 +71,12 @@ Integrantes:
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-<img src="./assets/profile-scott.jpg" alt="Scott Huachaca Advincula" width="300">
 
-Nombre completo: Scott Jacobo Huachaca Advincula
-
-Código de estudiante: U201914294
-
-Carrera: Ingeniería de Software
-
-Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
-como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que
-utilizamos a diario, como las redes sociales o aplicaciones de productividad.
-
-| Integrante                           | Foto | Descripción del Perfil                                                                                          |
-|-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|
-|  Carlos Andres Rojas Ccama  |![Foto Carlor andres](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c14e0c6e-bcc4-41fa-810c-4379e9b2ac64)   |Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. |
-|  Andrea Joselyn Garcia Moscoso|<img src="./assets/andrea-foto.jpg" alt="Andrea Garcia" width="200">| Actualmente estoy cursando el sexto ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, bases de datos, frontend y backend. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples. |
+| Integrante                      | Foto                                                                                                                 | Descripción del Perfil                                                                                                                                                                                                                                                                                                                                                                |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Carlos Andres Rojas Ccama       | ![Foto Carlor andres](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c14e0c6e-bcc4-41fa-810c-4379e9b2ac64) | Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. |
+| Andrea Joselyn Garcia Moscoso   | <img src="./assets/andrea-foto.jpg" alt="Andrea Garcia" width="200">                                                 | Actualmente estoy cursando el sexto ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, bases de datos, frontend y backend. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.                                         |
+| Scott Jacobo Huachaca Advincula | <img src="./assets/profile-scott.jpg" alt="Scott Huachaca Advincula" width="200">                                    | Soy estudiante de la UPC, la razón por la que elegí la carrera es porque combina las cosas que me gustan como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que utilizamos a diario, como las redes sociales o aplicaciones de productividad.                                                                           |
 
 ## 1.2 Solution Profile
 
@@ -268,6 +258,51 @@ Para acceder al video de las entrevistas, ingrese aquí
 ### 2.2.2. Registro de entrevistas
 
 **Segmento 1:** Arrendador
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Marvin</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Laufer</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./assets/EntrevistaArrendador1.png" alt="Andrea Garcia" width="700"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u201914294_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201914294%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistaML%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5c6f9656%2D9c38%2D4ebd%2D881d%2De4c5be235369" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 - 09:52</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"> Marvin, de 23 años y residente en Lima, Perú, alquila su vehículo para generar ingresos adicionales. Sus principales preocupaciones al alquilar son los posibles daños al vehículo y los aspectos legales involucrados. Para mitigar estos riesgos, utiliza contratos detallados, solicita documentos de identidad y realiza inspecciones exhaustivas antes y después de cada alquiler. Los contratos tienen una duración de 24 horas y ofrecen descuentos por alquileres semanales. El vehículo cuenta con un seguro a todo riesgo y un sistema de GPS para monitorear la velocidad. Sin embargo, Marvin ha enfrentado desafíos como reclamaciones por multas y desacuerdos con los clientes sobre las políticas de la compañía. Actualmente, promociona su servicio a través de su página web, Facebook, Instagram y TikTok.
+</td>
+  </tr>
+</tbody>
+</table>
 
 **Segmento 2:** Arrendatario
 
