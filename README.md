@@ -66,8 +66,8 @@ Integrantes:
 
 | Criterio Específico | AccionesRealizadas | Conclusiones |
 |---------------------|--------------------|--------------|
-| Actualiza conceptos y conocimientos necesario para su desarrollo profesional y en especial para su proyecto en soluciones de software | Carlos Rojas <br>**TB1**<br> Pude participar en el proyecto como la implementacion del startup y el nombre del producto incluyendo los segmentos objetivos del proyecto | **TB1**|
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software | Carlos Rojas <br>**TB1**<br>  En conclusion, tuvimos que primero hacer una investigación al usuario mediante las entrevistas y sacar su informacion | **TB1** |
+| Actualiza conceptos y conocimientos necesario para su desarrollo profesional y en especial para su proyecto en soluciones de software | <br>**TB1**<br> | **TB1**|
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software | <br>**TB1**<br> | **TB1** |
 
 # Capítulo I: Introducción
 
