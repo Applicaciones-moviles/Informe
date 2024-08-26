@@ -23,7 +23,7 @@ Integrantes:
 - Integrante 1: Nombre y Apellido
 - Integrante 2: Andrea Joselyn Garcia Moscoso
 - Integrante 3: Nombre y Apellido
-- Integrante 4: Nombre y Apellido
+- Integrante 4: Carlos Andres Rojas Ccama
 - Integrante 5: Scott Jacobo Huachaca Advincula
 
 
