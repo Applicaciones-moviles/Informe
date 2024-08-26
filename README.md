@@ -14,9 +14,9 @@ Profesor: Eduardo Martin Reyes Rodriguez
 
 Informe del Trabajo 
 
-Startup: ...
+Startup: RentGo
 
-Producto: ...
+Producto: DriveNow
 
 Integrantes:
 
