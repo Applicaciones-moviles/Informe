@@ -194,14 +194,14 @@ de vehículos, tanto para arrendatarios como para propietarios?**
   <tbody>
     <tr>
       <td rowspan="1" style="text-align:center;">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5" style="text-align:center;">El objetivo de este análisis es comprender el posicionamiento de nuestra startup, DriveShare, en comparación con sus competidores principales en la industria de alquiler de vehículos.</td>
+      <td colspan="5" style="text-align:center;">El objetivo de este análisis es comprender el posicionamiento de nuestra startup, CarConnect, en comparación con sus competidores principales en la industria de alquiler de vehículos.</td>
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
-      <td style="text-align:center;">DriveShare</td>
-      <td style="text-align:center;">Turo</td>
-      <td style="text-align:center;">Zipcar</td>
-      <td style="text-align:center;">Getaround</td>
+      <td style="text-align:center;">CarConnect</td>
+      <td style="text-align:center;">Turo <img src="./assets/LogoTuro.png" alt="Turo" width="200"></td>
+      <td style="text-align:center;">Zipcar <img src="./assets/LogoZipcar.png" alt="Zipcar" width="200"></td>
+      <td style="text-align:center;">Getaround <img src="./assets/LogoGetaround.jpg" alt="Getaround" width="200"></td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil</td>
@@ -209,7 +209,7 @@ de vehículos, tanto para arrendatarios como para propietarios?**
       <td style="text-align:center;">Plataforma de alquiler de vehículos con un enfoque centrado en la tecnología y la comodidad del cliente</td>
       <td style="text-align:center;">Plataforma de alquiler de vehículos que se destaca por su gran comunidad de usuarios y su enfoque en la conveniencia y la accesibilidad.</td>
       <td style="text-align:center;">Servicio de alquiler de coches que se enfoca en la movilidad urbana y la flexibilidad</td>
-      <td style="text-align:center;">Plataforma de alquiler de coches que se destaca por su presencia global y su enfoque en la comunidad de alquiler de vehículos compartidos.s</td>
+      <td style="text-align:center;">Plataforma de rentas de coches que destaca por su compromiso con la comunidad de alquiler de vehículos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
@@ -220,11 +220,11 @@ de vehículos, tanto para arrendatarios como para propietarios?**
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
-      <td style="text-align:center;">Mercado objetivo</td>
-      <td style="text-align:center;">Personas mayores de edad y conductores con licencia en regla</td>
-      <td style="text-align:center;">Personas que buscan alquilar vehículos de particulares</td>
-      <td style="text-align:center;">Usuarios urbanos que necesitan un coche por horas</td>
-      <td style="text-align:center;">Viajeros y propietarios de vehículos que desean alquilarlos</td>
+      <td style="text-align:center;">-Mercado objetivo</td>
+      <td style="text-align:center;">-Personas en busca de vehiculos de alquiler <br> -Dueños de coches interesados en generar ingresos pasivos a traves del alquiler de su vehiculo</td>
+      <td style="text-align:center;">-Personas que buscan alquilar vehículos</td>
+      <td style="text-align:center;">-Personas que necesitan un coche por horas</td>
+      <td style="text-align:center;">-Personas que desean tener un ingreso extra alquilando su vehiculo. <br> -Personas que desean alquilar un vehiculo.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Estrategias de marketing</td>
@@ -261,7 +261,7 @@ de vehículos, tanto para arrendatarios como para propietarios?**
       <td style="text-align:center;">Tecnología avanzada, amplia selección de vehículos</td>
       <td style="text-align:center;">Gran comunidad de usuarios, conveniencia</td>
       <td style="text-align:center;">Acceso inmediato a vehículos, flexibilidad en el alquiler</td>
-      <td style="text-align:center;">Variedad de vehículos disponibles, presencia global</td>
+      <td style="text-align:center;">Alta variedad de vehículos disponibles</td>
     </tr>
     <tr>
       <td style="text-align:center;">Debilidades</td>
@@ -272,17 +272,17 @@ de vehículos, tanto para arrendatarios como para propietarios?**
     </tr>
     <tr>
       <td style="text-align:center;">Oportunidades</td>
-      <td style="text-align:center;">Expansión a nuevos mercados, colaboraciones estratégicas</td>
-      <td style="text-align:center;">Crecimiento del mercado de alquiler entre particulares, internacionalización</td>
+      <td style="text-align:center;">Expansión a nuevos mercados y colaboraciones estratégicas</td>
+      <td style="text-align:center;">Crecimiento en el mercado de alquileres de vehiculos</td>
       <td style="text-align:center;">Innovación tecnológica, expansión a áreas suburbanas</td>
-      <td style="text-align:center;">Crecimiento del mercado de alquiler de vehículos compartidos, alianzas con empresas de viajes</td>
+      <td style="text-align:center;">Crecimiento en el mercado de alquileres de vehiculos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Amenazas</td>
-      <td style="text-align:center;">Competencia de grandes empresas de alquiler de vehículos, cambios en regulaciones gubernamentales</td>
-      <td style="text-align:center;">Competencia de empresas establecidas, cambios en la percepción de compartir vehículos</td>
-      <td style="text-align:center;">Entrada de nuevos competidores, cambios en las preferencias de movilidad</td>
-      <td style="text-align:center;">Regulaciones gubernamentales, percepción negativa sobre el alquiler de vehículos compartidos</td>
+      <td style="text-align:center;">Competencia frente a las principales empresas de alquiler de coches</td>
+      <td style="text-align:center;">Rivalidad con empresas consolidadas y emergentes</td>
+      <td style="text-align:center;">Competencia con compañías establecidas</td>
+      <td style="text-align:center;">Rivalidad con empresas consolidadas y emergentes</td>
     </tr>
   </tbody>
 </table>
