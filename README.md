@@ -178,11 +178,17 @@ Meta: Desarrollar una solución integral que garantice la seguridad y la transpa
 
 ## 1.3 Segmentos objetivo
 
+-La plataforma está direccionada a dos segmentos objetivos, personas mayores a 20 años: Personas con licencia de conducir interesados en buscar automóviles, y personas que tengan un vehículo legalmente registrado y documentado, que deseen alquilarlo. A continuación, se describe a cada uno de ellos:
+
 **Se identificaron dos  segmentos objetivos**
 
-- Personas mayores de 20 años con licencia de conducir interesadas en encontrar alquileres de automóviles a tarifas justas y transparentes, que se ajusten a su presupuesto y buscar un proceso de alquiler seguro y eficiente del vehículo.
+**Personas que buscan Alquilar Vehículos (Arrendatarios)**
 
-- Personas mayores de 20 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales 
+- Este segmento está compuesto por individuos mayores de 20 años que poseen una licencia de conducir y están interesados en alquilar vehículos. Sus principales motivaciones incluyen encontrar opciones de alquiler que ofrezcan tarifas justas y transparentes, que se ajusten a su presupuesto. Además, buscan un proceso de alquiler que sea seguro y eficiente. Tambien, ellos buscan la accesibilidad de los servicios y la confianza en la seguridad del proceso de alquiler. Estos usuarios suelen estar interesados en buscar plataformas que proporcionan una experiencia de alquiler sin complicaciones y con buena relación costo-beneficio.
+  
+**Propietarios que Alquilan Vehículos (Arrendador)**
+
+- Este segmento está formado por personas mayores de 20 años que ya poseen al menos un vehículo registrado y documentado. Su interés radica en alquilar su propio automóvil a través de plataformas digitales. Buscan una manera segura y efectiva de arrendar su vehículo a otros, aprovechando la tecnología para facilitar el proceso. Estos usuarios suelen valorar plataformas que ofrezcan una gestión fácil y segura del alquiler de su vehículo. La seguridad en la transacción y la facilidad de uso de la plataforma son aspectos clave para ellos, ya que desean minimizar riesgos y complicaciones al arrendar su automóvil.
 
 # Capítulo II: Requirements Elicitation & Analysis]()
 
