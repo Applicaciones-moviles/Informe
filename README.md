@@ -75,7 +75,10 @@ Integrantes:
 
 ### 1.1.1 Descripción de la Startup
 
-CarConnect es una startup enfocada en revolucionar en el alquiler de vehículos con tecnología innovadora. Nuestra plataforma integra una aplicación móvil para ofrecer una experiencia fluida y segura al usuario. Entre nuestras características destacadas en la aplicación, contamos con un sistema de pagos que asegura que las transacciones sean seguras y fáciles de gestionar. Además, sobre la funcionalidad de seguimiento GPS, permite a los usuarios localizar su vehículo en tiempo real, brindando una mayor tranquilidad y control. Tambien, ofrecemos un amplio catálogo de autos que abarca una variedad de modelos y opciones para adaptarse a las necesidades específicas de cada cliente. Nuestro servicio al cliente garantiza que cualquier consulta o problema que tengan, se resuelva de manera rápida y eficiente. Estas ventajas aseguran seguridad, protección, comodidad y ahorro para nuestros clientes. Nuestro objetivo es proporcionar una experiencia de alquiler de autos que sea eficiente, agradable y centrada en las necesidades de los clientes.
+CarConnect es una startup enfocada en revolucionar en el alquiler de vehículos con tecnología innovadora. Nuestra plataforma integra una aplicación móvil para ofrecer una experiencia fluida y segura al usuario. Entre nuestras características destacadas en la aplicación, contamos con un sistema de pagos que asegura que las transacciones sean seguras y fáciles de gestionar. Además, sobre la funcionalidad de seguimiento GPS, permite a los usuarios localizar su vehículo en tiempo real, brindando una mayor tranquilidad y control. Tambien, ofrecemos un amplio catálogo de autos que abarca una variedad de modelos y opciones para adaptarse a las necesidades específicas de cada cliente. Nuestro servicio al cliente garantiza que cualquier consulta o problema que tengan, se resuelva de manera rápida y eficiente. Estas ventajas aseguran seguridad, protección, comodidad y ahorro para nuestros clientes. 
+
+Con CarConnect, buscamos transformar el proceso de alquiler de autos, brindando soluciones tecnológicas que mejoren cada etapa de la experiencia del usuario, desde la reserva hasta el retorno del vehículo.
+Nuestro objetivo es proporcionar una experiencia de alquiler de autos que sea eficiente, agradable y centrada en las necesidades de los clientes.
 
 **Misión**
 
