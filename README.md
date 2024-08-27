@@ -180,7 +180,7 @@ Meta: Desarrollar una solución integral que garantice la seguridad y la transpa
 
 - La plataforma está direccionada a dos segmentos objetivos, personas mayores de 20 años: Personas con licencia de conducir interesados en buscar automóviles, y personas que tengan un vehículo legalmente registrado y documentado, que deseen alquilarlo. A continuación, se describe a cada uno de ellos:
 
-**Se identificaron dos  segmentos objetivos**
+**Se identificaron dos  segmentos objetivos:**
 
 **Personas que buscan Alquilar Vehículos (Arrendatarios)**
 
