@@ -75,14 +75,15 @@ Integrantes:
 
 ### 1.1.1 Descripción de la Startup
 
-CarConnect es una startup enfocada en revolucionar el alquiler de vehículos con tecnología innovadora. Ofrecemos características clave como retención de pagos, seguimiento GPS, una amplia gama de autos y un servicio al cliente excepcional. Estas ventajas aseguran seguridad, protección, comodidad y ahorro para nuestros clientes. CarConnect busca transformar la experiencia de alquiler mediante soluciones tecnológicas que mejoren la experiencia del usuario. Nuestro objetivo es proporcionar una experiencia de alquiler de autos que sea eficiente, agradable y centrada en las necesidades de los clientes.
+CarConnect es una startup enfocada en revolucionar en el alquiler de vehículos con tecnología innovadora. Nuestra plataforma integra una aplicación móvil para ofrecer una experiencia fluida y segura al usuario. Entre nuestras características destacadas en la aplicación, contamos con un sistema de pagos que asegura que las transacciones sean seguras y fáciles de gestionar. Además, sobre la funcionalidad de seguimiento GPS, permite a los usuarios localizar su vehículo en tiempo real, brindando una mayor tranquilidad y control. Tambien, ofrecemos un amplio catálogo de autos que abarca una variedad de modelos y opciones para adaptarse a las necesidades específicas de cada cliente. Nuestro servicio al cliente garantiza que cualquier consulta o problema que tengan, se resuelva de manera rápida y eficiente. Estas ventajas aseguran seguridad, protección, comodidad y ahorro para nuestros clientes. Nuestro objetivo es proporcionar una experiencia de alquiler de autos que sea eficiente, agradable y centrada en las necesidades de los clientes.
 
 **Misión**
 
-- Nuestra misión es ayudar a las personas a reducir los contratiempos que puedan tener al momento de rentar o poner en renta un auto para que estas puedan hacerlo de forma sencilla y segura. Pensamos lograr esto mediante el lanzamiento de aplicaciones web que se enfoquen en atacar dichos contratiempos.
+- Nuestra misión es simplificar y asegurar el proceso de alquiler de vehículos, tanto para quienes alquilan como para quienes ponen en renta sus autos. Logramos esto a través de una plataforma intuitiva y confiable, que aborda los contratiempos comunes y proporciona una experiencia fluida y segura mediante nuestra aplicación.
 
 **Visión**
-- Nuestra visión es posicionar nuestra aplicación de renta de autos entre las 10 mejores en Perú y expandirla a nivel latinoamericano para que más personas puedan disfrutar de nuestros servicios.
+
+- Nuestra visión es consolidarnos como la aplicación de alquiler de autos líder en Perú, reconocida por su innovación, facilidad de uso y excelente servicio al cliente. A largo plazo, aspiramos a expandirnos a nivel latinoamericano, ofreciendo nuestras soluciones a un público más amplio y mejorando la experiencia de alquiler de autos en la región.
 
 
 ### 1.1.2 Perfiles de integrantes del equipo
