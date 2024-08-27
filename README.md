@@ -20,7 +20,7 @@ Producto: DriveNow
 
 Integrantes:
 
-- Integrante 1: Nombre y Apellido
+- Integrante 1: Luiggi Jeremy Antonio Loayza
 - Integrante 2: Andrea Joselyn Garcia Moscoso
 - Integrante 3: Nombre y Apellido
 - Integrante 4: Carlos Andres Rojas Ccama
@@ -88,12 +88,13 @@ CarConnect es una startup enfocada en revolucionar el alquiler de vehículos con
 ### 1.1.2 Perfiles de integrantes del equipo
 
 
-| Integrante                      | Foto                                                                                                                 | Descripción del Perfil                                                                                                                                                                                                                                                                                                                                                                |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Integrante                      | Foto                                                                                                                                       | Descripción del Perfil                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Jeremy Antonio Loayza           | ![image](https://github.com/user-attachments/assets/44cd3415-7f8e-4a26-94cb-99034eb6073d) | Mi nombre es Luiggi Jeremy Antonio Loayza y soy un estudiante de Ingeniería de Software con una fuerte inclinación hacia el liderazgo y la organización de equipos, destacándome por mi participación activa y proactiva en proyectos. Mi enfoque colaborativo me permite asignar tareas de manera eficiente y motivar a mis compañeros, mientras que mis habilidades técnicas en herramientas como Figma, Adobe XD, HTML y CSS respaldan mi capacidad para materializar ideas. Busco constantemente oportunidades de crecimiento y aprendizaje, y estoy comprometido con impulsar la innovación y el éxito en cualquier entorno de desarrollo de software. |
 | Carlos Andres Rojas Ccama       | ![Foto Carlor andres](https://github.com/Applicaciones-moviles/Informe/blob/d3021850019fec3bce763c680be0f7ed04a93e70/assets/andres-foto.png) | Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. |
-| Andrea Joselyn Garcia Moscoso   | <img src="./assets/andrea-foto.jpg" alt="Andrea Garcia" width="200">                                                 | Actualmente estoy cursando el sexto ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, bases de datos, frontend y backend. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.                                         |
-| Scott Jacobo Huachaca Advincula | <img src="./assets/profile-scott.jpg" alt="Scott Huachaca Advincula" width="200">                                    | Soy estudiante de la UPC, la razón por la que elegí la carrera es porque combina las cosas que me gustan como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que utilizamos a diario, como las redes sociales o aplicaciones de productividad.              
-| Sebastian Valente Lobato Pozo | <img src="./assets/1677955143104.jpg" alt="Sebastian Lobato" width="200">                                    | Soy un estudiante de la carrera de Ingenieria de Software de la UPC, me me encuentro en ell sexto ciclo. Escogi esta carrera debido que desde niño siempre tenia mucha curiosidad sobre como funcionan las computadoras y videojuegos. Tengo conocimiento en el desarollo de aplicaciones en C++, LUA, Python, así como HTML, CSS, uso de frameworks como React, Angular, Vue y conocimiento de backend, base de datos, etc. Me considero una persona amable, responsable y colaborativa.    |
+| Andrea Joselyn Garcia Moscoso   | <img src="./assets/andrea-foto.jpg" alt="Andrea Garcia" width="200">                                                                       | Actualmente estoy cursando el sexto ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, bases de datos, frontend y backend. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.                                        |
+| Scott Jacobo Huachaca Advincula | <img src="./assets/profile-scott.jpg" alt="Scott Huachaca Advincula" width="200">                                                          | Soy estudiante de la UPC, la razón por la que elegí la carrera es porque combina las cosas que me gustan como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que utilizamos a diario, como las redes sociales o aplicaciones de productividad.             
+| Sebastian Valente Lobato Pozo   | <img src="./assets/1677955143104.jpg" alt="Sebastian Lobato" width="200">                                                                  | Soy un estudiante de la carrera de Ingenieria de Software de la UPC, me me encuentro en ell sexto ciclo. Escogi esta carrera debido que desde niño siempre tenia mucha curiosidad sobre como funcionan las computadoras y videojuegos. Tengo conocimiento en el desarollo de aplicaciones en C++, LUA, Python, así como HTML, CSS, uso de frameworks como React, Angular, Vue y conocimiento de backend, base de datos, etc. Me considero una persona amable, responsable y colaborativa.   |
 
 ## 1.2 Solution Profile
 
@@ -111,6 +112,64 @@ situación, surge la siguiente pregunta:
 
 **¿Cómo podemos garantizar la seguridad y transparencia en el alquiler 
 de vehículos, tanto para arrendatarios como para propietarios?**
+
+#### 1.2.2.2 Lean UX Assumptions
+
+##### Business Assumptions:
+- **Creemos que** nuestros usuarios necesitan una plataforma confiable y eficiente para alquilar vehículos, brindando seguridad y transparencia durante todo el proceso.
+- **Estas necesidades** se pueden satisfacer con una aplicación web/móvil que ofrezca una interfaz intuitiva, transparencia en tarifas y contratos, una amplia selección de vehículos, y un sistema de calificación y reseñas para garantizar la calidad del servicio.
+- **Nuestros clientes** serán personas mayores de 20 años con licencia de conducir que buscan alquileres seguros y propietarios de vehículos interesados en alquilarlos de manera confiable.
+- **El valor más importante** que un cliente busca es la seguridad y facilidad de uso durante el proceso de alquiler, junto con el acceso a una amplia gama de vehículos.
+- **El cliente también** obtendrá beneficios como contratos claros, una variedad de opciones de vehículos, y la posibilidad de leer y dejar reseñas para garantizar un servicio de calidad.
+- **Vamos a atraer** a la mayoría de nuestros clientes mediante estrategias de marketing digital enfocadas en la experiencia del usuario, destacando la transparencia y conveniencia de nuestra plataforma.
+- **Generaremos ingresos** mediante comisiones sobre las transacciones en la plataforma y planes de membresía para usuarios que busquen beneficios adicionales como seguros ampliados o tarifas reducidas.
+- **Nuestra competencia principal** será otras plataformas de alquiler entre particulares y servicios de alquiler tradicionales.
+- **Tendremos ventaja** sobre la competencia gracias a nuestra transparencia en tarifas y contratos, la variedad de vehículos disponibles, y nuestro enfoque en la facilidad de uso y satisfacción del cliente.
+- **El mayor riesgo** es la resistencia de los usuarios y propietarios a adoptar nuestra plataforma debido a la preferencia por métodos tradicionales de alquiler.
+- **Lo resolveremos** ofreciendo una interfaz fácil de usar, clara y transparente, junto con un soporte al cliente excepcional para guiar a los usuarios en el proceso.
+
+##### User Assumptions:
+- **¿Quién es el usuario?** Los principales usuarios de nuestro producto son personas mayores de 20 años con licencia de conducir que buscan alquilar vehículos de manera segura, y propietarios de vehículos interesados en generar ingresos adicionales alquilando sus autos de forma segura.
+- **¿Qué problemas tiene nuestro producto? ¿Resolver?** Nuestro producto actualmente no proporciona suficiente claridad en los costos asociados al alquiler, lo que puede causar frustración en los usuarios al enfrentar cargos inesperados.
+- **¿Qué características son importantes?** Es crucial que nuestra aplicación ofrezca una descripción clara y detallada de todos los costos asociados al alquiler, incluyendo tarifas, seguros y cualquier cargo adicional, además de un sistema de inspección fácil y eficiente antes y después del alquiler.
+- **¿Dónde encaja nuestro producto en su trabajo o vida?** El producto se integra en la rutina diaria de los usuarios al proporcionar un método más seguro y conveniente para alquilar vehículos, reemplazando las opciones tradicionales como el transporte público o la compra de un auto propio.
+- **¿Cuándo y cómo es nuestro producto usado?** El producto es utilizado principalmente cuando los usuarios necesitan un vehículo para viajes cortos o largos, y prefieren alquilar en lugar de poseer un auto, pudiendo acceder a la plataforma desde su celular o computadora.
+- **¿Cómo debe verse nuestro producto y cómo debe comportarse?** El diseño del producto debe ser intuitivo y confiable, con una interfaz gráfica que facilite la navegación y proporcione información clara sobre el estado del alquiler, las opciones de seguro y los costos asociados, todo ello sin causar confusiones o errores.
+
+##### Feature Assumptions:
+- **Claridad de Costos y Tarifas**
+    - **Hipótesis:** Creemos que proporcionar una descripción clara y detallada de todos los costos asociados al alquiler (tarifas, seguros, cargos adicionales) aumentará la confianza del usuario en la plataforma y reducirá la frustración causada por cargos inesperados.
+    - **Experimento:** Realizaremos un A/B testing presentando dos versiones de la aplicación: una que muestre todos los costos de manera detallada y otra con información más básica. Mediremos cuál versión reduce la cantidad de quejas y genera mayor satisfacción entre los usuarios, basándonos en métricas como la cantidad de tickets de soporte relacionados con costos y las calificaciones de satisfacción del usuario.
+
+- **Sistema de Inspección Eficiente**
+    - **Hipótesis:** Creemos que proporcionar guías claras y recomendaciones para la inspección del vehículo, tanto antes como después del alquiler, incrementará la confianza en la plataforma y reducirá los conflictos entre arrendadores y arrendatarios.
+    - **Experimento:** Realizaremos un A/B testing donde un grupo de usuarios recibirá guías detalladas de inspección mientras que otro grupo no. Compararemos la cantidad de disputas o reclamaciones relacionadas con el estado del vehículo entre ambos grupos para medir el impacto de estas guías en la reducción de conflictos.
+
+- **Transparencia en Contratos de Alquiler**
+  - **Hipótesis:** Creemos que ofrecer contratos de alquiler claros y detallados que cumplan con las leyes locales aumentará la confianza del usuario en la plataforma y su disposición a utilizarla repetidamente.
+  - **Experimento:** Implementaremos una versión actualizada del contrato con términos claros y detallados en toda la plataforma y recopilaremos feedback de los usuarios a través de encuestas de satisfacción. Compararemos estos resultados con periodos anteriores para evaluar el impacto de la mayor transparencia en la retención de usuarios y la reducción de disputas.
+
+- **Soporte al Cliente**
+  - **Hipótesis:** Creemos que ofrecer herramientas de autoayuda y recursos de soporte automatizados, como una base de conocimiento completa y un chatbot disponible 24/7, incrementará la satisfacción del usuario y fomentará la lealtad a la plataforma.
+  - **Experimento:** Implementaremos un chatbot y una base de conocimiento dentro de la plataforma, y mediremos la satisfacción del usuario a través de encuestas y la reducción en el número de solicitudes de soporte. Compararemos estos resultados con periodos anteriores donde estos recursos no estaban disponibles para evaluar su efectividad.
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+- **Hypothesis Statement 01:**
+  - **Creemos que** la plataforma se convertirá en el medio principal para que los usuarios alquilen vehículos de manera segura y eficiente.
+  - **Sabremos que hemos tenido éxito** cuando al menos el 60% de los usuarios que inicien el proceso de alquiler en nuestra plataforma lo completen con éxito durante un periodo de tres meses consecutivos, y cuando veamos un incremento constante en las recomendaciones positivas dentro de la plataforma.
+
+- **Hypothesis Statement 02:**
+  - **Creemos que** la plataforma será reconocida como un sitio confiable para que los usuarios alquilen vehículos con total transparencia y seguridad.
+  - **Sabremos que hemos tenido éxito** cuando más del 70% de las calificaciones recibidas en la plataforma sean de al menos 4 estrellas sobre 5 en aspectos de seguridad, transparencia y satisfacción general.
+
+- **Hypothesis Statement 03:**
+  - **Creemos que** los usuarios que alquilan vehículos de manera frecuente valorarán las características y beneficios adicionales ofrecidos por la plataforma.
+  - **Sabremos que hemos tenido éxito** cuando más del 50% de los usuarios que han realizado más de un alquiler en los últimos seis meses continúen utilizando la plataforma regularmente, indicando una percepción positiva del valor y la experiencia de uso.
+
+- **Hypothesis Statement 04:**
+  - **Creemos que** las comisiones aplicadas en las transacciones no serán un impedimento para que los propietarios de vehículos utilicen nuestra plataforma.
+  - **Sabremos que hemos tenido éxito** cuando el 80% de los propietarios que han realizado al menos tres alquileres a través de la plataforma en el último año continúen utilizándola, a pesar de las tarifas de comisión, indicando su aceptación del valor proporcionado.
 
 ## 1.3 Segmentos objetivo
 
