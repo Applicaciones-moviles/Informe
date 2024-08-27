@@ -182,7 +182,7 @@ Meta: Desarrollar una solución integral que garantice la seguridad y la transpa
 
 - Personas mayores de 20 años con licencia de conducir interesadas en encontrar alquileres de automóviles a tarifas justas y transparentes, que se ajusten a su presupuesto y buscar un proceso de alquiler seguro y eficiente del vehículo.
 
-- Personas mayores de 20 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales mediante un contrato de alquiler
+- Personas mayores de 20 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales 
 
 # Capítulo II: Requirements Elicitation & Analysis]()
 
