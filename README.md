@@ -104,14 +104,15 @@ CarConnect es una startup enfocada en revolucionar el alquiler de vehículos con
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-El alquiler de automóviles se enfrenta a diversos desafíos que 
-minan la confianza tanto de arrendatarios como de arrendadores. 
-Desde fallas mecánicas hasta casos de fraude, estos riesgos ponen
-en entredicho la seguridad y transparencia del sector. Ante esta 
-situación, surge la siguiente pregunta:
+En el sector del alquiler de automóviles, tanto arrendatarios como arrendadores enfrentan una serie de desafíos que afectan la confianza en el proceso de alquiler. Los problemas incluyen fallas mecánicas inesperadas y casos de fraude, que comprometen la seguridad y transparencia del sector.
 
-**¿Cómo podemos garantizar la seguridad y transparencia en el alquiler 
-de vehículos, tanto para arrendatarios como para propietarios?**
+Problema: Actualmente, la falta de garantías adecuadas en la seguridad y la transparencia del alquiler de vehículos genera preocupaciones para ambas partes involucradas. Los arrendatarios temen enfrentar problemas con el estado del vehículo y posibles fraudes, mientras que los propietarios de vehículos se preocupan por el uso indebido y la falta de control sobre el estado de sus autos.
+
+Impacto: Esta falta de confianza y seguridad no solo afecta la experiencia de los usuarios, sino que también limita el crecimiento del mercado de alquiler de vehículos y desalienta a potenciales usuarios a participar en el proceso. Los problemas recurrentes reducen la satisfacción del cliente y la efectividad del modelo de negocio para ambos arrendadores y arrendatarios.
+
+Visión: Aspiramos a transformar el mercado de alquiler de automóviles, implementando soluciones que aseguren la seguridad y transparencia en el proceso de alquiler. Queremos establecer un sistema que genere confianza tanto para los arrendatarios como para los propietarios de vehículos.
+
+Meta: Desarrollar una solución integral que garantice la seguridad y la transparencia en el alquiler de vehículos, minimizando los riesgos de fallas mecánicas y fraudes, y mejorando la confianza y la experiencia general de todos los involucrados.
 
 #### 1.2.2.2 Lean UX Assumptions
 
