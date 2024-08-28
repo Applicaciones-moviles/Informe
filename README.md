@@ -339,7 +339,7 @@ CarConnect tiene una visión clara: revolucionar el alquiler de vehículos a tra
 
 **Expansión geográfica**
 
-- Iniciaremos operaciones en las principales ciudades de Perú, concentrándonos en áreas con alta demanda de alquiler de vehículos y turismo.
+- Iniciaremos operaciones en las principales ciudades de Perú, concentrándonos en áreas con alta demanda de alquiler de vehículos.
 
 **Experiencia del usuario:** 
 
@@ -352,7 +352,7 @@ CarConnect tiene una visión clara: revolucionar el alquiler de vehículos a tra
 
 **Analisis del mercado:**
 
-- Realizaremos un análisis exhaustivo de los mercados internacionales para identificar oportunidades de crecimiento
+- Profundizaremos en las estrategias de nuestros principales competidores a nivel global para identificar mejores prácticas e innovar en nuestras soluciones
 
 
 ## 2.2. Entrevistas
