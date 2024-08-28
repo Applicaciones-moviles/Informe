@@ -104,6 +104,41 @@ Nuestro objetivo es proporcionar una experiencia de alquiler de autos que sea ef
 
 ### 1.2.1 Antecedentes y problemática
 
+What? - ¿Qué?
+¿Cuál es el problema?
+
+El problema que CarConnect busca resolver es la dificultad y las limitaciones que enfrentan las personas al alquilar vehículos de manera tradicional. Muchos consumidores encuentran el proceso de alquilar un auto lento, caro, y limitado a las opciones disponibles en agencias de alquiler tradicionales. Además, los propietarios de vehículos tienen vehículos que no utilizan todo el tiempo, lo que representa un recurso subutilizado.
+
+When? - ¿Cuándo?
+¿Cuando ocurre el problema?
+
+El problema ocurre cuando las personas necesitan alquilar un vehículo de manera rápida y conveniente, pero se encuentran con procesos tradicionales que son engorrosos, costosos, etc. También surge cuando los propietarios de vehículos tienen automóviles que no están siendo utilizados, resultando en un recurso desperdiciado que podría generar ingresos adicionales. 
+
+Where? - ¿Dónde?
+¿Dónde se tomarán las medidas?
+
+Las medidas se tomarán en Lima Metropolitana, implementando la solución a través de la aplicación móvil CarConnect.
+
+Who? - ¿Quién?
+¿Quién lo utilizará? ¿Quién es el cliente de este producto?
+
+El cliente de CarConnect incluye a los arrendatarios, que son personas que buscan alquilar un vehículo de manera rápida y conveniente, y a los arrendadores, que son propietarios de vehículos que desean rentar sus autos cuando no los están utilizando, incluyendo aquellos interesados en utilizar sus vehículos para servicios de transporte o taxi.
+
+Why? - ¿Por qué?
+¿Por qué es necesario resolver este problema?
+
+Es necesario resolver este problema porque los métodos tradicionales de alquiler de vehículos suelen ser ineficientes y limitan las opciones disponibles para los usuarios. Además, muchos propietarios tienen vehículos que no utilizan, lo que representa una oportunidad perdida para generar ingresos adicionales. CarConnect ofrece una solución más flexible y accesible, beneficiando tanto a quienes necesitan alquilar un vehículo como a quienes desean rentar el suyo. Esto mejora la utilización de los recursos y facilita el acceso a vehículos en momentos de alta demanda o necesidades urgentes.
+
+How? - ¿Cómo?
+¿Cómo se resolverá el problema?
+
+El problema se resolverá mediante la implementación de la aplicación móvil CarConnect, que conectará a arrendatarios y arrendadores de manera directa. La plataforma permitirá a los usuarios buscar y alquilar vehículos fácilmente, mientras que los propietarios podrán listar sus autos para renta.
+
+How much? - ¿Cuánto?
+¿Cuánto costará resolver el problema?
+
+El desarrollo de esta solución puede ser costoso, tanto en términos financieros como en tiempo y esfuerzo. Por ejemplo, una garantía no reembolsada puede provocar una pérdida considerable para un arrendatario. Por eso, es crucial contar con una plataforma confiable que reduzca estos riesgos para ambas partes en el proceso de alquiler de vehículos.
+
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
