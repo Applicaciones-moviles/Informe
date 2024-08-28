@@ -638,3 +638,32 @@ Para acceder al video de las entrevistas, ingrese aquí
   </tr>
 </tbody>
 </table>
+
+## 2.3 Needfinding
+
+### 2.3.2 User Task Matrix
+
+### 1. User Task Matrix: Arrendatario
+
+**Acción** | **Frecuencia** | **Importancia**
+--- | --- | ---
+Buscar vehículos disponibles | Alta | Alta
+Comparar opciones de vehículos | Media | Alta
+Reservar un vehículo | Alta | Alta
+Realizar el pago | Alta | Alta
+Localizar el vehículo | Media | Media
+Devolver el vehículo | Media | Media
+Calificar al arrendador y el vehículo | Baja | Media
+
+### 2. User Task Matrix: Arrendador
+
+**Acción** | **Frecuencia** | **Importancia**
+--- | --- | ---
+Registrar un vehículo en la plataforma | Baja | Alta
+Establecer precio y disponibilidad | Media | Alta
+Revisar solicitudes de alquiler | Alta | Alta
+Confirmar o rechazar solicitudes | Alta | Alta
+Monitorear el vehículo durante el alquiler | Media | Media
+Recibir pagos de los alquileres | Alta | Alta
+Gestionar mantenimiento del vehículo | Media | Media
+
