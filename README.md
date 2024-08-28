@@ -333,6 +333,28 @@ Meta: Desarrollar una solución integral que garantice la seguridad y la transpa
   </tbody>
 </table>
 
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+CarConnect tiene una visión clara: revolucionar el alquiler de vehículos a través de una plataforma tecnológica innovadora y centrada en el usuario. Para lograr este objetivo y diferenciarnos de la competencia, implementaremos las siguientes estrategias y tácticas:
+
+**Expansión geográfica**
+
+- Iniciaremos operaciones en las principales ciudades de Perú, concentrándonos en áreas con alta demanda de alquiler de vehículos y turismo.
+
+**Experiencia del usuario:** 
+
+- Optimizaremos la interfaz y la experiencia de usuario para facilitar la reserva, el pago y el seguimiento del vehículo.
+- Ofreceremos un servicio al cliente excepcional, con atención personalizada y resolución rápida de cualquier incidencia.
+
+**Seguridad y transparencia:**
+
+- Destacaremos la seguridad de nuestras transacciones y la transparencia en nuestros procesos, generando confianza en nuestros usuarios.
+
+**Analisis del mercado:**
+
+- Realizaremos un análisis exhaustivo de los mercados internacionales para identificar oportunidades de crecimiento
+
+
 ## 2.2. Entrevistas
 
 Para acceder al video de las entrevistas, ingrese aquí
