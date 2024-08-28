@@ -434,6 +434,96 @@ Para acceder al video de las entrevistas, ingrese aquí
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Denisse</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Caballero</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>35 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La perla</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/Applicaciones-moviles/Informe/blob/6a5fb80405bd92e10de5072b133fce819995d818/assets/entrevista2_arrendador.png" alt="Andres Rojas" width="700"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114657_upc_edu_pe/Eaw63kV6QplDvRpnd1UDg94BPA4yF6d4I_5b3lga4amrqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0xtoZ2" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 - 07:39</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"> Denisse Caballero, tiene 35 años, y ella esta interesado en alquilar su vehiculo. Se motiva a alquilar su vehículo principalmente por el ingreso económico, aunque se preocupa por posibles accidentes y luego tendría que llamar a la aseguradora. Considera crucial tener un contrato formal y detallado para proteger sus derechos, especialmente en casos de accidentes. Prefiere contratos de corta duración, idealmente menores a un mes, y asegura que el vehículo cuenta con un seguro SOAT adecuado. Verifica el historial de manejo y licencia del arrendatario, además de registrar el estado del vehículo antes y después del alquiler. En caso de daños, llama a la aseguradora para verificar los daños. Aprecia la puntualidad en los pagos y usa una plataforma digital para gestionar el alquiler, aunque ha tenido buenas y malas experiencias ya que hay algunos que pagan untualmente y otros que demoran un poco.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jose</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Castillo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>42 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Callao</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/Applicaciones-moviles/Informe/blob/6a5fb80405bd92e10de5072b133fce819995d818/assets/entrevista3_arrendador.png" alt="Andres Rojas" width="700"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114657_upc_edu_pe/ET7OYClGf_tJk5I5r6wDEyYBMmyCka91AxWmju8Q4FngCg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=k6Wihr" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 - 05:49</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"> Jose Castillo, tiene 42 años, alquila su vehículo principalmente para generar ingresos adicionales, aunque su mayor preocupación es el riesgo de robo o dañen su auto. Considera esencial tener un contrato formal para proteger sus derechos y evitar problemas futuros, prefiriendo contratos mensuales con pago adelantado. Utiliza un seguro a todo riesgo para cubrir posibles daños. El verifica el historial del arrendatario mediante el sistema de puntos del Ministerio de Transportes y realiza una inspección exhaustiva del vehículo antes y después del alquiler mediante un checklist. En caso de accidente, el cuenta con un seguro adecuado. Ha enfrentado problemas como retrasos en los pagos y la falta de documentación completa, sugiriendo que haya un sistema integral de información sobre los arrendatarios mejoraría el proceso. Utiliza aplicaciones para gestionar el alquiler de su vehículo.
+</td>
+  </tr>
+</tbody>
+</table>
+        
 **Segmento 2:** Arrendatario
 
 <table>
