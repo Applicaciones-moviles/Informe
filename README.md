@@ -348,7 +348,7 @@ CarConnect tiene una visión clara: revolucionar el alquiler de vehículos a tra
 
 **Seguridad y transparencia:**
 
-- Destacaremos la seguridad de nuestras transacciones y la transparencia en nuestros procesos, generando confianza en nuestros usuarios.
+- Ofreceremos un servicio confiable y seguro, respaldado por sistemas de protección de datos y protocolos de seguridad.
 
 **Analisis del mercado:**
 
