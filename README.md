@@ -639,6 +639,52 @@ Para acceder al video de las entrevistas, ingrese aquí
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Alison</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Garrido</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surco</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./assets/entrevista_sebastian.png" alt="entrevista sebastian" width="700"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/Edd3er672StFuBTdStZqx9cBMBwMyQ7NNDmNIJv8t0R1HQ?e=hjqoAV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 - 04:37</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"> Alison, de 21 años y residente en Surco, Lima, alquila vehículos en lugar de tener uno propio debido a su uso ocasional para viajes y salidas especiales. Selecciona vehículos confiables y adecuados para sus necesidades. Para Alison, es crucial revisar y entender el contrato de alquiler, y busca soluciones si algo no cubre sus expectativas. Se preocupa por las responsabilidades por daños y la adecuación del seguro al alquilar de propietarios privados.
+El seguro es esencial para su tranquilidad y protección. Considera la duración del viaje y el costo al decidir el tiempo de alquiler, y compara precios para ajustarse a sus necesidades. Revisa el estado del vehículo al recibirlo y devolverlo, y prefiere una garantía clara sobre su condición. Verifica que el seguro sea adecuado y desea un proceso de inspección detallado y transparente Utiliza la aplicación rentalcars para alquilar vehículos. Le gustaría ver más transparencia en tarifas y seguros, y un proceso de inspección estandarizado.
+</td>
+  </tr>
+</tbody>
+</table>
+
 ## 2.3 Needfinding
 
 ### 2.3.2 User Task Matrix
