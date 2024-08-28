@@ -667,3 +667,9 @@ Monitorear el vehículo durante el alquiler | Media | Media
 Recibir pagos de los alquileres | Alta | Alta
 Gestionar mantenimiento del vehículo | Media | Media
 
+### 2.3.3 User Journey Mapping
+
+### Segmento Arrendatario
+
+<img src="./assets/arrendatario_journey.png" alt="arrendatario">  
+
