@@ -64,10 +64,10 @@ Integrantes:
 
 # Student Outcome
 
-| Criterio Específico | AccionesRealizadas | Conclusiones |
+| Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|--------------------|--------------|
-| Actualiza conceptos y conocimientos necesario para su desarrollo profesional y en especial para su proyecto en soluciones de software | <br>**TB1**<br> | **TB1**|
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software | <br>**TB1**<br> | **TB1** |
+| Actualiza conceptos y conocimientos necesario para su desarrollo profesional y en especial para su proyecto en soluciones de software |<br>**TB1**<br><br>**Garcia Moscoso, Andrea Joselyn**<br><br>En esta entrega desarrollé el proceso de Lean UX Canvas, sintetizando el proceso del Lean UX, y también realicé el desarrollo de las User Stories para definir las funcionalidades futuras de la aplicación móvil. Esto me permitió adquirir nuevas habilidades y aumentar mi capacidad para plantear soluciones de software más efectivas. Además, este enfoque iterativo y centrado en el usuario me ayudó a mantener una perspectiva crítica y adaptativa. | **TB1**|
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software | <br>**TB1**<br><br>**Garcia Moscoso, Andrea Joselyn**<br><br>Al realizar entrevistas con los arrendatarios, reconocí la importancia del aprendizaje continuo al adaptar mis conocimientos a las necesidades del segmento objetivo. El análisis de estas entrevistas me permitió identificar mejoras clave en el proceso del alquiler. Este proceso reforzó mi compromiso con el aprendizaje permanente, crucial para desarrollar soluciones de software alineadas con las expectativas del usuario. | **TB1**<br><br> |
 
 # Capítulo I: Introducción
 
@@ -110,7 +110,7 @@ El problema que CarConnect busca resolver es la dificultad y las limitaciones qu
 When? - ¿Cuándo?
 ¿Cuando ocurre el problema?
 
-El problema ocurre cuando las personas necesitan alquilar un vehículo de manera rápida y conveniente, pero se encuentran con procesos tradicionales que son engorrosos, costosos, etc. También surge cuando los propietarios de vehículos tienen automóviles que no están siendo utilizados, resultando en un recurso desperdiciado que podría generar ingresos adicionales. 
+El problema ocurre cuando las personas necesitan alquilar un vehículo de manera rápida y conveniente, pero se encuentran con procesos tradicionales que son engorrosos, costosos, etc. También surge cuando los propietarios de vehículos tienen automóviles que no están siendo utilizados, resultando en un recurso desperdiciado que podría generar ingresos adicionales.
 
 Where? - ¿Dónde?
 ¿Dónde se tomarán las medidas?
@@ -690,7 +690,9 @@ El seguro es esencial para su tranquilidad y protección. Considera la duración
 
 ### 2.2.3. Análisis de entrevistas
 
-En todas las entrevistas realizadas, los participantes, con edades comprendidas entre 20 y 25 años, coincidieron en que les gustaría ver un desglose más detallado de los costos en la aplicación, para evitar los cargos ocultos. La mayoría de los entrevistados mencionó que utilizan una aplicación de alquiler de autos debido a que viajan con frecuencia por trabajo, en lugar de optar por el transporte público. Además, manifestaron su interés en contar con un proceso de inspección del vehículo, tanto antes como después del alquiler, para garantizar su estado y evitar posibles inconvenientes.
+**Segmento de arrendatarios**
+
+En todas las entrevistas realizadas, los participantes, con edades comprendidas entre 20 y 25 años, coincidieron en que les gustaría ver un desglose más detallado de los costos en la aplicación, para evitar los cargos ocultos. La mayoría de los entrevistados mencionó que utilizan una aplicación de alquiler de autos debido a que viajan con frecuencia por trabajo, en lugar de optar por el transporte público. Además, manifestaron su interés en contar con un proceso de inspección del vehículo, tanto antes como después del alquiler, para garantizar su estado y evitar posibles inconvenientes. Los entrevistados también expresaron que una mayor transparencia y seguridad en el proceso aumentaría su confianza en la plataforma, lo que podría motivarlos a utilizar la aplicación con mayor frecuencia.
 
 ## 2.3 Needfinding
 
@@ -770,8 +772,7 @@ Gestionar mantenimiento del vehículo | Media | Media
 | HU011 | Visualización de solicitudes | Como propietario, quiero visualizar las solicitudes de los arrendatarios interesados para poder realizar el contrato de alquiler | Escenario 1: Visualización de solicitudes de auto existentes <br><br>Dado que el propietario se encuentre en la sección "Solicitud" Cuando seleccione una solicitud<br>Entonces el sistema mostrará la información del arrendatario interesado. <br><br>Escenario 2: Visualización de solicitudes no existentes<br><br>Dado que el propietario se encuentre en la sección "Solicitud"<br>Cuando no haya ninguna solicitud disponible<br>Entonces el sistema mostrará un mensaje indicando "No hay solicitudes recibidas".|
 | HU012 | Actualización de datos | Como usuario, quiero actualizar mis datos guardados en la aplicación para mantener mi información al día | Escenario 1: Acceso a la sección “Información Personal” <br><br>Dado que el usuario quiere actualizar sus datos <br>Cuando seleccione el icono de su imagen de perfil <br>Entonces la aplicación le mostrará toda la información personal que ingresó al crear la cuenta.<br><br>Escenario 2: Actualización de datos <br><br>Dado que el usuario se encuentra en la sección “Información Personal”<br>Cuando actualiza los datos que desea cambiar<br>Y selecciona el botón "Aceptar"<br>Entonces la aplicación mostrará un mensaje indicando "Datos actualizados correctamente".|
 | HU013 | Registro de mantenimientos del auto | Como propietario, quiero registrar el mantenimiento de mi auto para que los arrendatarios estén al tanto de su estado | Escenario 1: Registro de mantenimiento exitoso.<br> <br>Dado que el propietario se encuentre en la sección "Mantenimiento" <br>Cuando complete el registro de mantenimiento del auto <br>Y seleccione la opción "Registrar" <br>Entonces el sistema mostrará el mensaje indicando "Se registró correctamente". <br><br>Escenario 2: Registro de mantenimiento incorrecto<br><br>Dado que el propietario se encuentre en la sección "Mantenimiento" <br>Cuando no complete todos los campos necesarios y selecciona "Registrar"<br>Entonces el sistema mostrará un mensaje de error.|
-| HU014 | Visualización de registro de mantenimiento | Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber su estado| Escenario 1: Visualización de registro de mantenimiento correctamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar con el propietario<br>Entonces el sistema mostrará el registro de mantenimiento del auto elegido. <br><br>Escenario 2: Visualización de registro de mantenimiento incorrectamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente <br>Entonces el sistema mostrará el mensaje "No se encontró el registro del auto seleccionado"
- |
+| HU014 | Visualización de registro de mantenimiento | Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber su estado| Escenario 1: Visualización de registro de mantenimiento correctamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar con el propietario<br>Entonces el sistema mostrará el registro de mantenimiento del auto elegido. <br><br>Escenario 2: Visualización de registro de mantenimiento incorrectamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente <br>Entonces el sistema mostrará el mensaje "No se encontró el registro del auto seleccionado"|
 
 
 ### 2.4.4 Product Backlog
