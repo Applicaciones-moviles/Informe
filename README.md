@@ -75,19 +75,17 @@ Integrantes:
 
 ### 1.1.1 Descripción de la Startup
 
-CarConnect es una startup enfocada en revolucionar en el alquiler de vehículos con tecnología innovadora. Nuestra plataforma integra una aplicación móvil para ofrecer una experiencia fluida y segura al usuario. Entre nuestras características destacadas en la aplicación, contamos con un sistema de pagos que asegura que las transacciones sean seguras y fáciles de gestionar. Además, sobre la funcionalidad de seguimiento GPS, permite a los usuarios localizar su vehículo en tiempo real, brindando una mayor tranquilidad y control. Tambien, ofrecemos un amplio catálogo de autos que abarca una variedad de modelos y opciones para adaptarse a las necesidades específicas de cada cliente. Nuestro servicio al cliente garantiza que cualquier consulta o problema que tengan, se resuelva de manera rápida y eficiente. Estas ventajas aseguran seguridad, protección, comodidad y ahorro para nuestros clientes. 
+CarConnect es una startup que busca facilitar el proceso de alquiler de vehículos a través de una aplicación móvil intuitiva. Nuestra plataforma permite a los usuarios registrarse, buscar y alquilar autos de manera eficiente. Ofrecemos funcionalidades clave como la creación de cuentas tanto para arrendatarios como para propietarios, la visualización de autos disponibles según ubicación, la gestión de solicitudes de alquiler, y la actualización de datos personales. Además, los propietarios pueden registrar el mantenimiento de sus vehículos, lo que permite a los arrendatarios consultar el estado del auto antes de alquilarlo.
 
-Con CarConnect, buscamos transformar el proceso de alquiler de autos, brindando soluciones tecnológicas que mejoren cada etapa de la experiencia del usuario, desde la reserva hasta el retorno del vehículo.
-Nuestro objetivo es proporcionar una experiencia de alquiler de autos que sea eficiente, agradable y centrada en las necesidades de los clientes.
+Nos comprometemos a proporcionar una experiencia de usuario sencilla y accesible, centrada en resolver las necesidades específicas de nuestros clientes, desde la búsqueda inicial hasta la finalización del contrato de alquiler.
 
 **Misión**
 
-- Nuestra misión es simplificar y asegurar el proceso de alquiler de vehículos, tanto para quienes alquilan como para quienes ponen en renta sus autos. Logramos esto a través de una plataforma intuitiva y confiable, que aborda los contratiempos comunes y proporciona una experiencia fluida y segura mediante nuestra aplicación.
+- Nuestra misión es simplificar y mejorar el proceso de alquiler de vehículos, tanto para quienes alquilan como para quienes ofrecen sus autos en alquiler, a través de una plataforma intuitiva y confiable.
 
 **Visión**
 
-- Nuestra visión es consolidarnos como la aplicación de alquiler de autos líder en Perú, reconocida por su innovación, facilidad de uso y excelente servicio al cliente. A largo plazo, aspiramos a expandirnos a nivel latinoamericano, ofreciendo nuestras soluciones a un público más amplio y mejorando la experiencia de alquiler de autos en la región.
-
+- Nuestra visión es consolidarnos como la aplicación de alquiler de autos preferida en Lima Metropolitana, reconocida por su facilidad de uso y servicio al cliente. A largo plazo, aspiramos a expandirnos a otras regiones del país, ofreciendo nuestras soluciones a un público más amplio.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -143,15 +141,17 @@ El desarrollo de esta solución puede ser costoso, tanto en términos financiero
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-En el sector del alquiler de automóviles, tanto arrendatarios como arrendadores enfrentan una serie de desafíos que afectan la confianza en el proceso de alquiler. Los problemas incluyen fallas mecánicas inesperadas y casos de fraude, que comprometen la seguridad y transparencia del sector.
+En el mercado actual de alquiler de autos, tanto los arrendatarios como los propietarios enfrentan desafíos significativos que minan la confianza en el proceso. Estos incluyen fallas mecánicas inesperadas, casos de fraude, y una falta general de transparencia y seguridad. Estos problemas no solo afectan la experiencia del usuario, sino que también limitan el crecimiento del sector.
 
-Problema: Actualmente, la falta de garantías adecuadas en la seguridad y la transparencia del alquiler de vehículos genera preocupaciones para ambas partes involucradas. Los arrendatarios temen enfrentar problemas con el estado del vehículo y posibles fraudes, mientras que los propietarios de vehículos se preocupan por el uso indebido y la falta de control sobre el estado de sus autos.
+Problema: La ausencia de sistemas efectivos de seguridad y transparencia en el proceso de alquiler de autos genera incertidumbre y preocupación tanto en los arrendatarios como en los propietarios. Los arrendatarios están preocupados por el estado mecánico de los vehículos y la posibilidad de fraudes, mientras que los propietarios temen el mal uso de sus vehículos y la falta de control sobre el proceso de alquiler.
 
-Impacto: Esta falta de confianza y seguridad no solo afecta la experiencia de los usuarios, sino que también limita el crecimiento del mercado de alquiler de vehículos y desalienta a potenciales usuarios a participar en el proceso. Los problemas recurrentes reducen la satisfacción del cliente y la efectividad del modelo de negocio para ambos arrendadores y arrendatarios.
+Impacto en el Negocio: Esta falta de confianza ha resultado en una menor adopción de servicios de alquiler de autos, reduciendo el crecimiento potencial del mercado. Los usuarios descontentos no solo afectan la reputación de las empresas, sino que también resultan en una menor retención de clientes y una disminución en las ventas.
 
-Visión: Aspiramos a transformar el mercado de alquiler de automóviles, implementando soluciones que aseguren la seguridad y transparencia en el proceso de alquiler. Queremos establecer un sistema que genere confianza tanto para los arrendatarios como para los propietarios de vehículos.
+Hipótesis: Creemos que al desarrollar una solución que incremente la seguridad y la transparencia en el proceso de alquiler de autos, podremos reducir significativamente los riesgos asociados con fallas mecánicas y fraudes. Esto, a su vez, mejorará la confianza y satisfacción de los usuarios, aumentando tanto la adopción del servicio como la retención de clientes.
 
-Meta: Desarrollar una solución integral que garantice la seguridad y la transparencia en el alquiler de vehículos, minimizando los riesgos de fallas mecánicas y fraudes, y mejorando la confianza y la experiencia general de todos los involucrados.
+Visión: Nuestra visión es revolucionar el mercado de alquiler de autos, creando una plataforma que priorice la seguridad y la transparencia, lo que generará una mayor confianza y satisfacción entre arrendatarios y propietarios.
+
+Objetivo: Desarrollar una plataforma que incorpore mecanismos avanzados de seguridad y transparencia en el alquiler de autos, con el fin de minimizar los riesgos y maximizar la confianza y satisfacción de los usuarios, impulsando así el crecimiento del mercado.
 
 #### 1.2.2.2 Lean UX Assumptions
 
@@ -262,22 +262,22 @@ Meta: Desarrollar una solución integral que garantice la seguridad y la transpa
       <td style="text-align:center;">Retención de pagos, seguimiento GPS, amplia selección de vehículos, servicio al cliente de primera calidad</td>
       <td style="text-align:center;">Plataforma de alquiler de vehículos entre particulares</td>
       <td style="text-align:center;">Servicio de alquiler de coches por horas o días</td>
-      <td style="text-align:center;">Mercado de alquiler de coches entre particulares</td>
+      <td style="text-align:center;">Mercado de alquiler de coches particulares</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
-      <td style="text-align:center;">-Mercado objetivo</td>
-      <td style="text-align:center;">-Personas en busca de vehiculos de alquiler <br> -Dueños de coches interesados en generar ingresos pasivos a traves del alquiler de su vehiculo</td>
-      <td style="text-align:center;">-Personas que buscan alquilar vehículos</td>
-      <td style="text-align:center;">-Personas que necesitan un coche por horas</td>
-      <td style="text-align:center;">-Personas que desean tener un ingreso extra alquilando su vehiculo. <br> -Personas que desean alquilar un vehiculo.</td>
+      <td style="text-align:center;">Mercado objetivo</td>
+      <td style="text-align:center;">Personas en busca de vehiculos de alquiler <br> -Dueños de coches interesados en generar ingresos pasivos a traves del alquiler de su vehiculo</td>
+      <td style="text-align:center;">Personas que buscan alquilar vehículos</td>
+      <td style="text-align:center;">Personas que necesitan un coche por horas</td>
+      <td style="text-align:center;">Personas que desean tener un ingreso extra alquilando su vehiculo. <br> Personas que desean alquilar un vehiculo.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Estrategias de marketing</td>
       <td style="text-align:center;">Marketing digital enfocado en las experiencias de usuario, informando las ventjas y seguridad del servicio</td>
       <td style="text-align:center;">Marketing digital, promoción entre comunidades locales</td>
       <td style="text-align:center;">Publicidad en medios urbanos, marketing digital</td>
-      <td style="text-align:center;">Marketing digital, promoción en redes sociales</td>
+      <td style="text-align:center;">Promoción en redes sociales</td>
     </tr>
     <tr>
       <td rowspan="3" style="text-align:center;">Perfil de producto</td>
@@ -299,7 +299,7 @@ Meta: Desarrollar una solución integral que garantice la seguridad y la transpa
       <td style="text-align:center;">Plataforma web y aplicación móvil</td>
       <td style="text-align:center;">Plataforma web y aplicación móvil</td>
       <td style="text-align:center;">Aplicación móvil y ubicaciones físicas</td>
-      <td style="text-align:center;">Plataforma web y aplicación móvil</td>
+      <td style="text-align:center;">Aplicación web y aplicación móvil</td>
     </tr>
     <tr>
       <td rowspan="4" style="text-align:center;">Análisis SWOT</td>
@@ -335,24 +335,23 @@ Meta: Desarrollar una solución integral que garantice la seguridad y la transpa
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-CarConnect tiene una visión clara: revolucionar el alquiler de vehículos a través de una plataforma tecnológica innovadora y centrada en el usuario. Para lograr este objetivo y diferenciarnos de la competencia, implementaremos las siguientes estrategias y tácticas:
+En CarConnect buscamos transformar el alquiler de vehículos en Perú mediante una plataforma tecnológica avanzada centrada en el usuario. Para diferenciarse de la competencia, nos enfocamos en las siguientes acciones clave:
 
-**Expansión geográfica**
+**Expansión geográfica en Lima Metropolitana**
 
-- Iniciaremos operaciones en las principales ciudades de Perú, concentrándonos en áreas con alta demanda de alquiler de vehículos.
+- Nuestra estrategia se centra en consolidar nuestra presencia en Lima Metropolitana, enfocándonos en áreas con alta demanda de alquiler de vehículos. Colaboraremos con empresas locales y agencias de viajes dentro de la región para facilitar nuestra expansión y alcanzar a un mayor número de usuarios.
 
 **Experiencia del usuario:** 
 
-- Optimizaremos la interfaz y la experiencia de usuario para facilitar la reserva, el pago y el seguimiento del vehículo.
-- Ofreceremos un servicio al cliente excepcional, con atención personalizada y resolución rápida de cualquier incidencia.
+- Queremos que la experiencia de uso de nuestra plataforma sea fluida y satisfactoria. Mejoraremos la interfaz para que la navegación y las reservas sean intuitivas, con un sistema de reservas en un solo clic y diversas opciones de pago. El soporte al cliente será manejado por un chatbot eficiente, disponible las 24 horas del día, los 7 días de la semana, para resolver cualquier problema rápidamente. También implementaremos un programa de fidelización que recompense a los usuarios frecuentes.
 
 **Seguridad y transparencia:**
 
-- Ofreceremos un servicio confiable y seguro, respaldado por sistemas de protección de datos y protocolos de seguridad.
+- La confianza es fundamental, por lo que garantizaremos un entorno seguro y transparente. Implementaremos medidas de seguridad de datos robustas y un proceso riguroso de verificación tanto para arrendatarios como para propietarios. Nos aseguraremos de que los precios sean claros desde el principio, sin costos ocultos, y fomentaremos la retroalimentación continua a través de reseñas de los usuarios.
 
-**Analisis del mercado:**
+**Innovación y Análisis del Mercado::**
 
-- Profundizaremos en las estrategias de nuestros principales competidores a nivel global para identificar mejores prácticas e innovar en nuestras soluciones
+- Mantendremos un análisis constante de nuestros competidores globales como Turo, Zipcar y Getaround, adoptando las mejores prácticas e innovando con características exclusivas como el seguimiento en tiempo real del vehículo. Adaptaremos nuestras soluciones a las necesidades y tendencias específicas del mercado de Lima Metropolitana, asegurando que nuestro servicio sea relevante y efectivo para nuestros usuarios locales.
 
 
 ## 2.2. Entrevistas
