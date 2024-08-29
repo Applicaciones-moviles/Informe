@@ -810,6 +810,14 @@ Las entrevistas realizadas a arrendadores revelaron una serie de necesidades cla
 | HU013 | Registro de mantenimientos del auto | Como propietario, quiero registrar el mantenimiento de mi auto para que los arrendatarios estén al tanto de su estado | Escenario 1: Registro de mantenimiento exitoso.<br> <br>Dado que el propietario se encuentre en la sección "Mantenimiento" <br>Cuando complete el registro de mantenimiento del auto <br>Y seleccione la opción "Registrar" <br>Entonces el sistema mostrará el mensaje indicando "Se registró correctamente". <br><br>Escenario 2: Registro de mantenimiento incorrecto<br><br>Dado que el propietario se encuentre en la sección "Mantenimiento" <br>Cuando no complete todos los campos necesarios y selecciona "Registrar"<br>Entonces el sistema mostrará un mensaje de error.|
 | HU014 | Visualización de registro de mantenimiento | Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber su estado| Escenario 1: Visualización de registro de mantenimiento correctamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar con el propietario<br>Entonces el sistema mostrará el registro de mantenimiento del auto elegido. <br><br>Escenario 2: Visualización de registro de mantenimiento incorrectamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente <br>Entonces el sistema mostrará el mensaje "No se encontró el registro del auto seleccionado"|
 
+### 2.4.3 Impact Mapping
+### **Arrendador**
+![foto_tobe_arrendador](./assets/Impact%20map%201%20(8).png)
+
+### **Arrendatario**
+![foto_tobe_arrendatario](./assets/Impact%20map%201%20(Luis).png)
+
+
 
 ### 2.4.4 Product Backlog
 
