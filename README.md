@@ -694,6 +694,11 @@ El seguro es esencial para su tranquilidad y protección. Considera la duración
 
 En todas las entrevistas realizadas, los participantes, con edades comprendidas entre 20 y 25 años, coincidieron en que les gustaría ver un desglose más detallado de los costos en la aplicación, para evitar los cargos ocultos. La mayoría de los entrevistados mencionó que utilizan una aplicación de alquiler de autos debido a que viajan con frecuencia por trabajo, en lugar de optar por el transporte público. Además, manifestaron su interés en contar con un proceso de inspección del vehículo, tanto antes como después del alquiler, para garantizar su estado y evitar posibles inconvenientes. Los entrevistados también expresaron que una mayor transparencia y seguridad en el proceso aumentaría su confianza en la plataforma, lo que podría motivarlos a utilizar la aplicación con mayor frecuencia.
 
+**Segmento de arrendador**
+
+Las entrevistas realizadas a arrendadores revelaron una serie de necesidades clave para mejorar su experiencia con la plataforma de alquiler de vehículos. Los arrendadores buscan mayor transparencia en las tarifas y comisiones, así como una gestión de reservas y comunicación más eficiente. También desean asegurar sus vehículos con medidas robustas y simplificar el proceso de entrega y devolución mediante herramientas como checklists digitales. Además, los arrendadores quieren aumentar la visibilidad y promoción de sus vehículos en la plataforma, y mejorar la retroalimentación recibida para ajustar su servicio. En general, buscan una experiencia más clara, segura y optimizada para maximizar su eficiencia y satisfacción.
+
+
 ## 2.3 Needfinding
 
 ### 2.3.1 User Personas
