@@ -726,15 +726,11 @@ Gestionar mantenimiento del vehículo | Media | Media
 
 ### **Arrendatario**
 
-<img src="./assets/asis.jpg" alt="arrendatario">  
+<img src="./assets/asi3.jpg" alt="arrendatarioasis">  
 
 
 ### **Arrendador**
 
-| FASES         | Búsqueda                                           | Reserva                                              | Uso                                                | Finalización                                      |
-|---------------|----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| **DOING**     | Publicando su vehículo y buscando inquilinos interesados. | Comunicándose con arrendatarios interesados y acordando términos del alquiler. | Preparando el vehículo para la entrega y asegurando que esté listo para el arrendatario. | Recibiendo el vehículo de vuelta, revisando su estado y cerrando el alquiler. |
-| **FEELING**   | Expectativa de encontrar arrendatarios y deseo de maximizar la ocupación de su vehículo. | Confianza en la selección del inquilino, pero con algo de ansiedad por asegurar que el proceso sea fluido. | Satisfacción al ver que el vehículo es usado y cierta preocupación por el estado del mismo durante el alquiler. | Alivio al recibir el vehículo en buen estado y satisfacción por haber completado el proceso de alquiler. |
-| **THINKING**  | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales. | Revisando la disponibilidad del vehículo y confirmando todos los detalles del alquiler. | Considerando los aspectos logísticos de la entrega y el mantenimiento del vehículo durante el alquiler. | Evaluando el estado del vehículo al devolverlo y reflexionando sobre la experiencia del alquiler. |
+<img src="./assets/asi2.jpg" alt="Arrendadorasis">  
 
 
