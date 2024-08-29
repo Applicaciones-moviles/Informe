@@ -719,3 +719,7 @@ Gestionar mantenimiento del vehículo | Media | Media
 
 <img src="./assets/arrendatario_journey.png" alt="arrendatario">  
 
+### Segmento Arrendador
+
+<img src="./assets/journey2.png" alt="arrendador">  
+
