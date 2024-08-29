@@ -726,11 +726,7 @@ Gestionar mantenimiento del vehículo | Media | Media
 
 ### **Arrendatario**
 
-| FASES         | Búsqueda                                           | Reserva                                              | Uso                                                | Finalización                                      |
-|---------------|----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| **DOING**     | Buscando vehículos disponibles que se ajusten a sus necesidades y presupuesto. | Seleccionando un vehículo específico y completando el proceso de reserva en línea. | Recogiendo el vehículo en el lugar designado y usándolo durante el período acordado. | Devolviendo el vehículo al lugar acordado y completando el proceso de devolución. |
-| **FEELING**   | Curiosidad por encontrar la mejor opción y emoción por el próximo viaje. | Confianza en el proceso de reserva pero con algo de ansiedad por confirmar la disponibilidad. | Emoción por el viaje y alivio al confirmar que el vehículo está en buenas condiciones. | Satisfacción por la experiencia y deseo de compartir recomendaciones si fue positiva. |
-| **THINKING**  | Evaluando las opciones disponibles y comparando características y precios de los vehículos. | Revisando los términos de la reserva para asegurarse de que todo esté claro y aceptado. | Planificando el uso del vehículo y considerando detalles logísticos para un viaje sin contratiempos. | Reflexionando sobre la experiencia general y considerando dejar una reseña o comentario. |
+<img src="./assets/asis.png" alt="arrendatario">  
 
 
 ### **Arrendador**
