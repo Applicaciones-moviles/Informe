@@ -743,6 +743,16 @@ Gestionar mantenimiento del vehículo | Media | Media
 
 ## 2.4 Requirements Specification
 
+### 2.4.1 To-be Scenario Mapping
+
+### **Arrendatario**
+
+![foto_tobe_arrendatario](https://github.com/Applicaciones-moviles/Informe/blob/fc85b98c963f55173d99c0d7031ee41f2fc98c12/assets/to-be_Arrendatario.jpg)
+
+### **Arrendador**
+
+![foto_tobe_arrendador](https://github.com/Applicaciones-moviles/Informe/blob/fc85b98c963f55173d99c0d7031ee41f2fc98c12/assets/to-be_Arrendador.jpg)
+
 ### 2.4.2 User Stories
 
 | User Story ID | Título | Descripción | Criterios de Aceptación |
