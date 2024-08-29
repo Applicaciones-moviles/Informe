@@ -726,7 +726,7 @@ Gestionar mantenimiento del vehículo | Media | Media
 
 ### **Arrendatario**
 
-<img src="./assets/asis.png" alt="arrendatario">  
+<img src="./assets/asis.jpg" alt="arrendatario">  
 
 
 ### **Arrendador**
