@@ -217,7 +217,7 @@ Objetivo: Desarrollar una plataforma que incorpore mecanismos avanzados de segur
 
 ## 1.3 Segmentos objetivo
 
-- La plataforma está direccionada a dos segmentos objetivos, personas mayores de 20 años: Personas con licencia de conducir interesados en buscar automóviles, y personas que tengan un vehículo legalmente registrado y documentado, que deseen alquilarlo. A continuación, se describe a cada uno de ellos:
+La plataforma está direccionada a dos segmentos objetivos, personas mayores de 20 años: Personas con licencia de conducir interesados en buscar automóviles, y personas que tengan un vehículo legalmente registrado y documentado, que deseen alquilarlo. A continuación, se describe a cada uno de ellos:
 
 **Se identificaron dos  segmentos objetivos:**
 
@@ -695,6 +695,16 @@ El seguro es esencial para su tranquilidad y protección. Considera la duración
 En todas las entrevistas realizadas, los participantes, con edades comprendidas entre 20 y 25 años, coincidieron en que les gustaría ver un desglose más detallado de los costos en la aplicación, para evitar los cargos ocultos. La mayoría de los entrevistados mencionó que utilizan una aplicación de alquiler de autos debido a que viajan con frecuencia por trabajo, en lugar de optar por el transporte público. Además, manifestaron su interés en contar con un proceso de inspección del vehículo, tanto antes como después del alquiler, para garantizar su estado y evitar posibles inconvenientes. Los entrevistados también expresaron que una mayor transparencia y seguridad en el proceso aumentaría su confianza en la plataforma, lo que podría motivarlos a utilizar la aplicación con mayor frecuencia.
 
 ## 2.3 Needfinding
+
+### 2.3.1 User Personas
+
+**Segmento arrendador**
+
+<img src="./assets/Diego%20Jara.png">
+
+**Segmento arrendatario**
+
+<img src="./assets/Luis%20Ceza.png">
 
 ### 2.3.2 User Task Matrix
 
