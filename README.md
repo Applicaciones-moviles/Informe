@@ -211,6 +211,10 @@ Objetivo: Desarrollar una plataforma que incorpore mecanismos avanzados de segur
   - **Creemos que** las comisiones aplicadas en las transacciones no serán un impedimento para que los propietarios de vehículos utilicen nuestra plataforma.
   - **Sabremos que hemos tenido éxito** cuando el 80% de los propietarios que han realizado al menos tres alquileres a través de la plataforma en el último año continúen utilizándola, a pesar de las tarifas de comisión, indicando su aceptación del valor proporcionado.
 
+#### 1.2.2.4 Lean UX Canvas
+
+<img src="./assets/ux_canvas.png" alt="Turo" width="900">
+
 ## 1.3 Segmentos objetivo
 
 - La plataforma está direccionada a dos segmentos objetivos, personas mayores de 20 años: Personas con licencia de conducir interesados en buscar automóviles, y personas que tengan un vehículo legalmente registrado y documentado, que deseen alquilarlo. A continuación, se describe a cada uno de ellos:
@@ -225,7 +229,7 @@ Objetivo: Desarrollar una plataforma que incorpore mecanismos avanzados de segur
 
 - Este segmento está formado por personas mayores de 20 años que ya poseen al menos un vehículo registrado y documentado. Su interés radica en alquilar su propio automóvil a través de plataformas digitales. Buscan una manera segura y efectiva de arrendar su vehículo a otros, aprovechando la tecnología para facilitar el proceso. Estos usuarios suelen valorar plataformas que ofrezcan una gestión fácil y segura del alquiler de su vehículo. La seguridad en la transacción y la facilidad de uso de la plataforma son aspectos clave para ellos, ya que desean minimizar riesgos y complicaciones al arrendar su automóvil.
 
-# Capítulo II: Requirements Elicitation & Analysis]()
+# Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
 
@@ -684,6 +688,10 @@ El seguro es esencial para su tranquilidad y protección. Considera la duración
 </tbody>
 </table>
 
+### 2.2.3. Análisis de entrevistas
+
+En todas las entrevistas realizadas, los participantes, con edades comprendidas entre 20 y 25 años, coincidieron en que les gustaría ver un desglose más detallado de los costos en la aplicación, para evitar los cargos ocultos. La mayoría de los entrevistados mencionó que utilizan una aplicación de alquiler de autos debido a que viajan con frecuencia por trabajo, en lugar de optar por el transporte público. Además, manifestaron su interés en contar con un proceso de inspección del vehículo, tanto antes como después del alquiler, para garantizar su estado y evitar posibles inconvenientes.
+
 ## 2.3 Needfinding
 
 ### 2.3.2 User Task Matrix
@@ -733,4 +741,44 @@ Gestionar mantenimiento del vehículo | Media | Media
 
 <img src="./assets/asis2.jpg" alt="Arrendadorasis">  
 
+## 2.4 Requirements Specification
 
+### 2.4.2 User Stories
+
+| User Story ID | Título | Descripción | Criterios de Aceptación |
+| ------------- | ------ | ----- | ---- |
+| HU001 | Inicio de sesión| Como usuario nuevo, quiero iniciar sesión en la aplicación, para acceder a mi cuenta personal. | Escenario 1: Inicio de sesión exitoso con credenciales válidas<br><br>Dado que el usuario ha completado el proceso de registro y tiene credenciales válidas<br>Cuando el usuario ingresa sus credenciales en los campos "Correo electrónico" y "Contraseña"<br>Y selecciona el botón “Acceder” <br>Entonces el sistema le asignará una sesión de usuario|
+| HU002 | Registro del arrendatario | Como arrendatario, quiero registrarme dentro de la aplicación para poder alquilar un auto según mi presupuesto.| Escenario 1: Acceso a la opción de registro del arrendatario<br><br>Dado que el arrendatario se encuentra en sección de "Inicio" <br> Cuando el arrendatario no se encuentra registrado en la aplicación y selecciona la opción “Crear una cuenta” <br> Entonces, el sistema lo redirigirá al formulario de registro.<br><br>Escenario 2: Registro exitoso del arrendatario con credenciales válidas<br><br>Dado que el arrendatario se encuentra en la sección de registro<br>Y selecciona la opción "Arrendatario" <br> Cuando el arrendatario completa todos los campos correctamente<br> Entonces el sistema almacenará los datos en la base de datos<br>Y mostrará el mensaje "Usted se registró correctamente"| 
+| HU003 | Registro del propietario | Como propietario quiero registrarme dentro de la aplicación para ofrecer en alquiler mi auto en la aplicación. | Escenario 1: Acceso a la opción de registro del propietario<br><br> Dado que el propietario no está registrado en la aplicación<br> Y selecciona la opción 'Crear una cuenta'<br> Entonces el sistema lo redirigirá al formulario de registro."<br><br> Escenario 2: Registro exitoso del propietario con credenciales válidas<br><br>Dado que el propietario se encuentra en la sección de registro <br> Y selecciona la opción "Propietario" <br> Cuando el propietario rellene todos los datos correctamente <br> Entonces el sistema almacenará los datos en la base de datos<br> Y mostrará el mensaje "Usted se registró correctamente ".| 
+| HU004 | Búsqueda de autos según características | Como arrendatario, quiero buscar autos de acuerdo a mis preferencias para encontrar un auto que se ajuste a mis necesidades | Escenario 1: Visualización de autos según las características proporcionadas<br><br> Dado que el arrendatario está en la sección "Buscar autos" <br> Cuando ingresa las características deseadas en los campos correspondientes<br>Entonces el sistema mostrará todos los autos disponibles que cumplan con esos criterios|
+| HU005 | Notificaciones via correo o sms | Como usuario, quiero poder recibir notificaciones cuando hay autos disponibles o alguien quiere alquilar un auto para mantenerme informado.| Escenario 1: Visualización de notificaciones<br><br>Dado que el sistema tiene las notificaciones habilitadas<br>Cuando haya algún auto disponible o alguien quiera alquilar un auto <br>Entonces, el sistema enviará las notificaciones al usuario.|
+| HU006 | Interacción con los usuarios | Como administrador del sistema, quiero comunicarme con los usuarios para ofrecerles un servicio más personalizado. | Escenario 1: Servicio de atención al cliente<br><br>Dado que el sistema muestra una sección de atención al cliente <br>Cuando el usuario busca respuestas a sus consultas <br>Entonces, el sistema debería asignar un chatbot para ayudar al usuario a resolver sus dudas de manera personalizada.|
+| HU007 | Publicación de anuncio de alquiler de auto | Como propietario, quiero crear un anuncio detallado para alquilar mi auto, de modo que los arrendatarios se sientan seguros al elegirlo. | Escenario 1: Publicación de anuncio exitosamente<br><br>Dado que el propietario se encuentre en la sección "Registro de vehículo" <br>Cuando complete los detalles del auto y las tarifas de alquiler <br>Y seleccione la opción "Registrar"<br>Entonces el sistema guardará la información en la base de datos<br>Y mostrará en pantalla el contrato de alquiler.|
+| HU008 | Autos disponibles en el área | Como arrendatario, quiero poder visualizar todos los autos disponibles de mi área para elegir los que se ubican en mi zona. |Escenario 1: Visualización de autos correctamente <br><br>Dado que el arrendatario se encuentre en la sección "Buscar auto" <br>Cuando complete el campo de "Ubicación" <br>Entonces el sistema mostrará todos los autos disponibles en el área seleccionada.|
+| HU009 | Solicitud de alquiler de auto | Como arrendatario, quiero solicitar el alquiler del auto para poder utilizar el auto.| Escenario 1: Solicitud de contrato del auto correctamente<br><br> Dado que el arrendatario se encuentra en la sección 'Buscar auto'<br> Cuando firma el contrato y selecciona 'Solicitar alquiler'<br>Entonces el sistema enviará la solicitud al propietario y mostrará un mensaje de confirmación.| 
+| HU010 | Visualización del sitio web de la aplicación. | Como usuario, quiero visualizar la publicidad de la aplicación para conocer más sobre sus funcionalidades | Escenario 1: Visualización de la landing page <br><br>Dado que el invitado es nuevo y busca información sobre la aplicación <br> Cuando ingrese al enlace de la landing page <br>Entonces el sistema mostrará la página con la información detallada de la aplicación.|
+| HU011 | Visualización de solicitudes | Como propietario, quiero visualizar las solicitudes de los arrendatarios interesados para poder realizar el contrato de alquiler | Escenario 1: Visualización de solicitudes de auto existentes <br><br>Dado que el propietario se encuentre en la sección "Solicitud" Cuando seleccione una solicitud<br>Entonces el sistema mostrará la información del arrendatario interesado. <br><br>Escenario 2: Visualización de solicitudes no existentes<br><br>Dado que el propietario se encuentre en la sección "Solicitud"<br>Cuando no haya ninguna solicitud disponible<br>Entonces el sistema mostrará un mensaje indicando "No hay solicitudes recibidas".|
+| HU012 | Actualización de datos | Como usuario, quiero actualizar mis datos guardados en la aplicación para mantener mi información al día | Escenario 1: Acceso a la sección “Información Personal” <br><br>Dado que el usuario quiere actualizar sus datos <br>Cuando seleccione el icono de su imagen de perfil <br>Entonces la aplicación le mostrará toda la información personal que ingresó al crear la cuenta.<br><br>Escenario 2: Actualización de datos <br><br>Dado que el usuario se encuentra en la sección “Información Personal”<br>Cuando actualiza los datos que desea cambiar<br>Y selecciona el botón "Aceptar"<br>Entonces la aplicación mostrará un mensaje indicando "Datos actualizados correctamente".|
+| HU013 | Registro de mantenimientos del auto | Como propietario, quiero registrar el mantenimiento de mi auto para que los arrendatarios estén al tanto de su estado | Escenario 1: Registro de mantenimiento exitoso.<br> <br>Dado que el propietario se encuentre en la sección "Mantenimiento" <br>Cuando complete el registro de mantenimiento del auto <br>Y seleccione la opción "Registrar" <br>Entonces el sistema mostrará el mensaje indicando "Se registró correctamente". <br><br>Escenario 2: Registro de mantenimiento incorrecto<br><br>Dado que el propietario se encuentre en la sección "Mantenimiento" <br>Cuando no complete todos los campos necesarios y selecciona "Registrar"<br>Entonces el sistema mostrará un mensaje de error.|
+| HU014 | Visualización de registro de mantenimiento | Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber su estado| Escenario 1: Visualización de registro de mantenimiento correctamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar con el propietario<br>Entonces el sistema mostrará el registro de mantenimiento del auto elegido. <br><br>Escenario 2: Visualización de registro de mantenimiento incorrectamente <br><br>Dado que el arrendatario se encuentre en la sección "Mantenimiento" <br>Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente <br>Entonces el sistema mostrará el mensaje "No se encontró el registro del auto seleccionado"
+ |
+
+
+### 2.4.4 Product Backlog
+
+| #Orden | User Story ID | Titulo | Descripción | Story Points |
+| ------------- | ------ | ----- | ---- | ----- |
+| 1 | HU001 | Inicio de sesión | Como usuario nuevo, quiero iniciar sesión en la aplicación, para acceder a mi cuenta personal | 1 | 
+| 2 | HU002 | Registro del arrendatario | Como arrendatario, quiero registrarme dentro de la aplicación para poder alquilar un auto según mi presupuesto | 3 |
+| 3 | HU003 | Registro del propietario | Como propietario quiero registrarme dentro de la aplicación para ofrecer en alquiler mi auto en la aplicación. | 3 | 
+| 4 | HU004 | Búsqueda de autos según características | Como arrendatario, quiero buscar autos de acuerdo a mis preferencias para encontrar un auto que se ajuste a mis necesidades | 8 |
+| 5 | HU005 | Notificaciones via correo o sms |Como usuario, quiero poder recibir notificaciones cuando hay autos disponibles o alguien quiere alquilar un auto para mantenerme informado. | 5 | 
+| 6 | HU006 | Interacción con los usuarios | Como administrador del sistema, quiero comunicarme con los usuarios para ofrecerles un servicio más personalizado. | 5 | 
+| 7 | HU007 | Publicación de anuncio de alquiler de auto | Como propietario, quiero crear un anuncio detallado para alquilar mi auto, de modo que los arrendatarios se sientan seguros al elegirlo. | 8 |
+| 8 | HU008 | Autos disponibles en el área | Como arrendatario, quiero poder visualizar todos los autos disponibles de mi área para elegir los que se ubican en mi zona. | 5 | 
+| 9 | HU009 | Solicitud de alquiler de auto | Como arrendatario, quiero solicitar el alquiler del auto para poder utilizar el auto | 5 |
+| 10 | HU010 | Visualización del sitio web de la aplicación | Como usuario, quiero visualizar la publicidad de la aplicación para conocer más sobre sus funcionalidades | 8 |
+| 11 | HU011 | Visualización de solicitudes | Como propietario, quiero visualizar las solicitudes de los arrendatarios interesados para poder realizar el contrato de alquiler| 5 |
+| 12 | HU012 | Actualización de datos| Como usuario, quiero actualizar mis datos guardados en la aplicación para mantener mi información al día | 5 |
+| 13 | HU013 | Registro de mantenimientos del auto | Como propietario, quiero registrar el mantenimiento de mi auto para que los arrendatarios estén al tanto de su estado | 8 |
+| 14 | HU014 | Visualización del registro de mantenimiento | Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber su estado | 8 |
