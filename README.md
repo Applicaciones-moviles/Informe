@@ -723,3 +723,23 @@ Gestionar mantenimiento del vehículo | Media | Media
 
 <img src="./assets/journey2.png" alt="arrendador">  
 
+### 2.3.5 As-is Scenario Mapping
+
+### **Arrendatario**
+
+| FASES         | Búsqueda                                           | Reserva                                              | Uso                                                | Finalización                                      |
+|---------------|----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
+| **DOING**     | Buscando vehículos disponibles que se ajusten a sus necesidades y presupuesto. | Seleccionando un vehículo específico y completando el proceso de reserva en línea. | Recogiendo el vehículo en el lugar designado y usándolo durante el período acordado. | Devolviendo el vehículo al lugar acordado y completando el proceso de devolución. |
+| **FEELING**   | Curiosidad por encontrar la mejor opción y emoción por el próximo viaje. | Confianza en el proceso de reserva pero con algo de ansiedad por confirmar la disponibilidad. | Emoción por el viaje y alivio al confirmar que el vehículo está en buenas condiciones. | Satisfacción por la experiencia y deseo de compartir recomendaciones si fue positiva. |
+| **THINKING**  | Evaluando las opciones disponibles y comparando características y precios de los vehículos. | Revisando los términos de la reserva para asegurarse de que todo esté claro y aceptado. | Planificando el uso del vehículo y considerando detalles logísticos para un viaje sin contratiempos. | Reflexionando sobre la experiencia general y considerando dejar una reseña o comentario. |
+
+
+### **Arrendador**
+
+| FASES         | Búsqueda                                           | Reserva                                              | Uso                                                | Finalización                                      |
+|---------------|----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
+| **DOING**     | Publicando su vehículo y buscando inquilinos interesados. | Comunicándose con arrendatarios interesados y acordando términos del alquiler. | Preparando el vehículo para la entrega y asegurando que esté listo para el arrendatario. | Recibiendo el vehículo de vuelta, revisando su estado y cerrando el alquiler. |
+| **FEELING**   | Expectativa de encontrar arrendatarios y deseo de maximizar la ocupación de su vehículo. | Confianza en la selección del inquilino, pero con algo de ansiedad por asegurar que el proceso sea fluido. | Satisfacción al ver que el vehículo es usado y cierta preocupación por el estado del mismo durante el alquiler. | Alivio al recibir el vehículo en buen estado y satisfacción por haber completado el proceso de alquiler. |
+| **THINKING**  | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales. | Revisando la disponibilidad del vehículo y confirmando todos los detalles del alquiler. | Considerando los aspectos logísticos de la entrega y el mantenimiento del vehículo durante el alquiler. | Evaluando el estado del vehículo al devolverlo y reflexionando sobre la experiencia del alquiler. |
+
+
