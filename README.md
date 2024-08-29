@@ -22,7 +22,7 @@ Integrantes:
 
 - Integrante 1: Luiggi Jeremy Antonio Loayza
 - Integrante 2: Andrea Joselyn Garcia Moscoso
-- Integrante 3: Nombre y Apellido
+- Integrante 3: Sebastian Valente Lobato Pozo
 - Integrante 4: Carlos Andres Rojas Ccama
 - Integrante 5: Scott Jacobo Huachaca Advincula
 
