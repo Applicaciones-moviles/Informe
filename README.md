@@ -698,13 +698,13 @@ En todas las entrevistas realizadas, los participantes, con edades comprendidas 
 
 ### 2.3.1 User Personas
 
-**Segmento arrendador**
-
-<img src="./assets/Diego%20Jara.png">
-
 **Segmento arrendatario**
 
-<img src="./assets/Luis%20Ceza.png">
+<img src="./assets/Diego%20Jara.png" alt="arrendador">
+
+**Segmento arrendador**
+
+<img src="./assets/Luis%20Ceza.png" alt="arrendatario">
 
 ### 2.3.2 User Task Matrix
 
@@ -752,6 +752,16 @@ En todas las entrevistas realizadas, los participantes, con edades comprendidas 
 ### Segmento Arrendador
 
 <img src="./assets/journey2.png" alt="arrendador">  
+
+### 2.3.4 Empathy Mapping
+
+### Segmento Arrendatario
+
+<img src="./assets/Diego%20Jara%20-%20Empathy%20Map.png" alt="arrendatarioempathy">  
+
+### Segmento Arrendador
+
+<img src="./assets/Luis%20Ceza%20-%20Empathy%20Map.png" alt="arrendadorempathy">  
 
 ### 2.3.5 As-is Scenario Mapping
 
